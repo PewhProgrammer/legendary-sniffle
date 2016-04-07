@@ -1,0 +1,1669 @@
+Spieler: 2
+Datum: 04.10.2015 22:01:50
+Map-File: europe_smaller_maxtracks21.map
+Seed: 891967
+
+NewObserver playerId: 0
+An Spieler 0: GameState players: 2
+NewObserver playerId: 1
+An Spieler 1: GameState players: 2
+Register playerId: 1 myName: TAS1
+An Spieler 0: NewPlayer playerId: 1 name: TAS1
+An Spieler 1: NewPlayer playerId: 1 name: TAS1
+NewObserver playerId: 2
+An Spieler 2: GameState players: 2
+An Spieler 2: NewPlayer playerId: 1 name: TAS1
+NewObserver playerId: 3
+An Spieler 3: GameState players: 2
+An Spieler 3: NewPlayer playerId: 1 name: TAS1
+Register playerId: 0 myName: TAS0
+An Spieler 0: NewPlayer playerId: 0 name: TAS0
+An Spieler 1: NewPlayer playerId: 0 name: TAS0
+An Spieler 2: NewPlayer playerId: 0 name: TAS0
+An Spieler 3: NewPlayer playerId: 0 name: TAS0
+An Spieler 0: NewCards kind: YELLOW count: 120
+An Spieler 1: NewCards kind: YELLOW count: 120
+An Spieler 2: NewCards kind: YELLOW count: 120
+An Spieler 3: NewCards kind: YELLOW count: 120
+An Spieler 0: NewCards kind: WHITE count: 120
+An Spieler 1: NewCards kind: WHITE count: 120
+An Spieler 2: NewCards kind: WHITE count: 120
+An Spieler 3: NewCards kind: WHITE count: 120
+An Spieler 0: NewCards kind: RED count: 120
+An Spieler 1: NewCards kind: RED count: 120
+An Spieler 2: NewCards kind: RED count: 120
+An Spieler 3: NewCards kind: RED count: 120
+An Spieler 0: NewCards kind: ALL count: 120
+An Spieler 1: NewCards kind: ALL count: 120
+An Spieler 2: NewCards kind: ALL count: 120
+An Spieler 3: NewCards kind: ALL count: 120
+An Spieler 0: NewCards kind: ORANGE count: 120
+An Spieler 1: NewCards kind: ORANGE count: 120
+An Spieler 2: NewCards kind: ORANGE count: 120
+An Spieler 3: NewCards kind: ORANGE count: 120
+An Spieler 0: NewCards kind: BLUE count: 120
+An Spieler 1: NewCards kind: BLUE count: 120
+An Spieler 2: NewCards kind: BLUE count: 120
+An Spieler 3: NewCards kind: BLUE count: 120
+An Spieler 0: NewCards kind: GREEN count: 120
+An Spieler 1: NewCards kind: GREEN count: 120
+An Spieler 2: NewCards kind: GREEN count: 120
+An Spieler 3: NewCards kind: GREEN count: 120
+An Spieler 0: NewCards kind: VIOLET count: 120
+An Spieler 1: NewCards kind: VIOLET count: 120
+An Spieler 2: NewCards kind: VIOLET count: 120
+An Spieler 3: NewCards kind: VIOLET count: 120
+An Spieler 0: NewCards kind: BLACK count: 120
+An Spieler 1: NewCards kind: BLACK count: 120
+An Spieler 2: NewCards kind: BLACK count: 120
+An Spieler 3: NewCards kind: BLACK count: 120
+An Spieler 0: MaxTrackLength maxTracks: 21
+An Spieler 1: MaxTrackLength maxTracks: 21
+An Spieler 2: MaxTrackLength maxTracks: 21
+An Spieler 3: MaxTrackLength maxTracks: 21
+An Spieler 0: NewCity cityId: 0 name: Edinburgh x: 2 y: 0
+An Spieler 1: NewCity cityId: 0 name: Edinburgh x: 2 y: 0
+An Spieler 2: NewCity cityId: 0 name: Edinburgh x: 2 y: 0
+An Spieler 3: NewCity cityId: 0 name: Edinburgh x: 2 y: 0
+An Spieler 0: NewCity cityId: 1 name: Lisboa x: 0 y: 10
+An Spieler 1: NewCity cityId: 1 name: Lisboa x: 0 y: 10
+An Spieler 2: NewCity cityId: 1 name: Lisboa x: 0 y: 10
+An Spieler 3: NewCity cityId: 1 name: Lisboa x: 0 y: 10
+An Spieler 0: NewCity cityId: 2 name: Madrid x: 1 y: 10
+An Spieler 1: NewCity cityId: 2 name: Madrid x: 1 y: 10
+An Spieler 2: NewCity cityId: 2 name: Madrid x: 1 y: 10
+An Spieler 3: NewCity cityId: 2 name: Madrid x: 1 y: 10
+An Spieler 0: NewCity cityId: 3 name: Cadiz x: 1 y: 11
+An Spieler 1: NewCity cityId: 3 name: Cadiz x: 1 y: 11
+An Spieler 2: NewCity cityId: 3 name: Cadiz x: 1 y: 11
+An Spieler 3: NewCity cityId: 3 name: Cadiz x: 1 y: 11
+An Spieler 0: NewCity cityId: 4 name: Barcelona x: 3 y: 10
+An Spieler 1: NewCity cityId: 4 name: Barcelona x: 3 y: 10
+An Spieler 2: NewCity cityId: 4 name: Barcelona x: 3 y: 10
+An Spieler 3: NewCity cityId: 4 name: Barcelona x: 3 y: 10
+An Spieler 0: NewCity cityId: 5 name: Pamplona x: 3 y: 8
+An Spieler 1: NewCity cityId: 5 name: Pamplona x: 3 y: 8
+An Spieler 2: NewCity cityId: 5 name: Pamplona x: 3 y: 8
+An Spieler 3: NewCity cityId: 5 name: Pamplona x: 3 y: 8
+An Spieler 0: NewCity cityId: 6 name: Dieppe x: 3 y: 5
+An Spieler 1: NewCity cityId: 6 name: Dieppe x: 3 y: 5
+An Spieler 2: NewCity cityId: 6 name: Dieppe x: 3 y: 5
+An Spieler 3: NewCity cityId: 6 name: Dieppe x: 3 y: 5
+An Spieler 0: NewCity cityId: 7 name: Paris x: 4 y: 5
+An Spieler 1: NewCity cityId: 7 name: Paris x: 4 y: 5
+An Spieler 2: NewCity cityId: 7 name: Paris x: 4 y: 5
+An Spieler 3: NewCity cityId: 7 name: Paris x: 4 y: 5
+An Spieler 0: NewCity cityId: 8 name: Bruxelles x: 4 y: 4
+An Spieler 1: NewCity cityId: 8 name: Bruxelles x: 4 y: 4
+An Spieler 2: NewCity cityId: 8 name: Bruxelles x: 4 y: 4
+An Spieler 3: NewCity cityId: 8 name: Bruxelles x: 4 y: 4
+An Spieler 0: NewCity cityId: 9 name: Amsterdam x: 5 y: 3
+An Spieler 1: NewCity cityId: 9 name: Amsterdam x: 5 y: 3
+An Spieler 2: NewCity cityId: 9 name: Amsterdam x: 5 y: 3
+An Spieler 3: NewCity cityId: 9 name: Amsterdam x: 5 y: 3
+An Spieler 0: NewCity cityId: 10 name: Essen x: 6 y: 3
+An Spieler 1: NewCity cityId: 10 name: Essen x: 6 y: 3
+An Spieler 2: NewCity cityId: 10 name: Essen x: 6 y: 3
+An Spieler 3: NewCity cityId: 10 name: Essen x: 6 y: 3
+An Spieler 0: NewCity cityId: 11 name: Frankfurt x: 6 y: 4
+An Spieler 1: NewCity cityId: 11 name: Frankfurt x: 6 y: 4
+An Spieler 2: NewCity cityId: 11 name: Frankfurt x: 6 y: 4
+An Spieler 3: NewCity cityId: 11 name: Frankfurt x: 6 y: 4
+An Spieler 0: NewCity cityId: 12 name: Zuerich x: 6 y: 6
+An Spieler 1: NewCity cityId: 12 name: Zuerich x: 6 y: 6
+An Spieler 2: NewCity cityId: 12 name: Zuerich x: 6 y: 6
+An Spieler 3: NewCity cityId: 12 name: Zuerich x: 6 y: 6
+An Spieler 0: NewCity cityId: 13 name: Marseille x: 5 y: 8
+An Spieler 1: NewCity cityId: 13 name: Marseille x: 5 y: 8
+An Spieler 2: NewCity cityId: 13 name: Marseille x: 5 y: 8
+An Spieler 3: NewCity cityId: 13 name: Marseille x: 5 y: 8
+An Spieler 0: NewCity cityId: 14 name: Berlin x: 8 y: 3
+An Spieler 1: NewCity cityId: 14 name: Berlin x: 8 y: 3
+An Spieler 2: NewCity cityId: 14 name: Berlin x: 8 y: 3
+An Spieler 3: NewCity cityId: 14 name: Berlin x: 8 y: 3
+An Spieler 0: NewCity cityId: 15 name: Kopenhagen x: 7 y: 1
+An Spieler 1: NewCity cityId: 15 name: Kopenhagen x: 7 y: 1
+An Spieler 2: NewCity cityId: 15 name: Kopenhagen x: 7 y: 1
+An Spieler 3: NewCity cityId: 15 name: Kopenhagen x: 7 y: 1
+An Spieler 0: NewCity cityId: 16 name: Stockholm x: 9 y: 0
+An Spieler 1: NewCity cityId: 16 name: Stockholm x: 9 y: 0
+An Spieler 2: NewCity cityId: 16 name: Stockholm x: 9 y: 0
+An Spieler 3: NewCity cityId: 16 name: Stockholm x: 9 y: 0
+An Spieler 0: NewCity cityId: 17 name: Muenchen x: 7 y: 5
+An Spieler 1: NewCity cityId: 17 name: Muenchen x: 7 y: 5
+An Spieler 2: NewCity cityId: 17 name: Muenchen x: 7 y: 5
+An Spieler 3: NewCity cityId: 17 name: Muenchen x: 7 y: 5
+An Spieler 0: NewCity cityId: 18 name: Venezia x: 7 y: 7
+An Spieler 1: NewCity cityId: 18 name: Venezia x: 7 y: 7
+An Spieler 2: NewCity cityId: 18 name: Venezia x: 7 y: 7
+An Spieler 3: NewCity cityId: 18 name: Venezia x: 7 y: 7
+An Spieler 0: NewCity cityId: 19 name: Roma x: 8 y: 9
+An Spieler 1: NewCity cityId: 19 name: Roma x: 8 y: 9
+An Spieler 2: NewCity cityId: 19 name: Roma x: 8 y: 9
+An Spieler 3: NewCity cityId: 19 name: Roma x: 8 y: 9
+An Spieler 0: NewCity cityId: 20 name: Palermo x: 8 y: 12
+An Spieler 1: NewCity cityId: 20 name: Palermo x: 8 y: 12
+An Spieler 2: NewCity cityId: 20 name: Palermo x: 8 y: 12
+An Spieler 3: NewCity cityId: 20 name: Palermo x: 8 y: 12
+An Spieler 0: NewCity cityId: 21 name: Danzig x: 10 y: 2
+An Spieler 1: NewCity cityId: 21 name: Danzig x: 10 y: 2
+An Spieler 2: NewCity cityId: 21 name: Danzig x: 10 y: 2
+An Spieler 3: NewCity cityId: 21 name: Danzig x: 10 y: 2
+An Spieler 0: NewCity cityId: 22 name: Riga x: 12 y: 1
+An Spieler 1: NewCity cityId: 22 name: Riga x: 12 y: 1
+An Spieler 2: NewCity cityId: 22 name: Riga x: 12 y: 1
+An Spieler 3: NewCity cityId: 22 name: Riga x: 12 y: 1
+An Spieler 0: NewCity cityId: 23 name: Smolensk x: 15 y: 3
+An Spieler 1: NewCity cityId: 23 name: Smolensk x: 15 y: 3
+An Spieler 2: NewCity cityId: 23 name: Smolensk x: 15 y: 3
+An Spieler 3: NewCity cityId: 23 name: Smolensk x: 15 y: 3
+An Spieler 0: NewCity cityId: 24 name: Wilno x: 13 y: 3
+An Spieler 1: NewCity cityId: 24 name: Wilno x: 13 y: 3
+An Spieler 2: NewCity cityId: 24 name: Wilno x: 13 y: 3
+An Spieler 3: NewCity cityId: 24 name: Wilno x: 13 y: 3
+An Spieler 0: NewCity cityId: 25 name: Warschau x: 11 y: 3
+An Spieler 1: NewCity cityId: 25 name: Warschau x: 11 y: 3
+An Spieler 2: NewCity cityId: 25 name: Warschau x: 11 y: 3
+An Spieler 3: NewCity cityId: 25 name: Warschau x: 11 y: 3
+An Spieler 0: NewCity cityId: 26 name: Moskva x: 16 y: 3
+An Spieler 1: NewCity cityId: 26 name: Moskva x: 16 y: 3
+An Spieler 2: NewCity cityId: 26 name: Moskva x: 16 y: 3
+An Spieler 3: NewCity cityId: 26 name: Moskva x: 16 y: 3
+An Spieler 0: NewCity cityId: 27 name: Petrograd x: 15 y: 1
+An Spieler 1: NewCity cityId: 27 name: Petrograd x: 15 y: 1
+An Spieler 2: NewCity cityId: 27 name: Petrograd x: 15 y: 1
+An Spieler 3: NewCity cityId: 27 name: Petrograd x: 15 y: 1
+An Spieler 0: NewCity cityId: 28 name: Kyiv x: 14 y: 4
+An Spieler 1: NewCity cityId: 28 name: Kyiv x: 14 y: 4
+An Spieler 2: NewCity cityId: 28 name: Kyiv x: 14 y: 4
+An Spieler 3: NewCity cityId: 28 name: Kyiv x: 14 y: 4
+An Spieler 0: NewCity cityId: 29 name: Wien x: 9 y: 6
+An Spieler 1: NewCity cityId: 29 name: Wien x: 9 y: 6
+An Spieler 2: NewCity cityId: 29 name: Wien x: 9 y: 6
+An Spieler 3: NewCity cityId: 29 name: Wien x: 9 y: 6
+An Spieler 0: NewCity cityId: 30 name: Budapest x: 10 y: 6
+An Spieler 1: NewCity cityId: 30 name: Budapest x: 10 y: 6
+An Spieler 2: NewCity cityId: 30 name: Budapest x: 10 y: 6
+An Spieler 3: NewCity cityId: 30 name: Budapest x: 10 y: 6
+An Spieler 0: NewCity cityId: 31 name: Zagreb x: 9 y: 7
+An Spieler 1: NewCity cityId: 31 name: Zagreb x: 9 y: 7
+An Spieler 2: NewCity cityId: 31 name: Zagreb x: 9 y: 7
+An Spieler 3: NewCity cityId: 31 name: Zagreb x: 9 y: 7
+An Spieler 0: NewCity cityId: 32 name: Brindisi x: 9 y: 9
+An Spieler 1: NewCity cityId: 32 name: Brindisi x: 9 y: 9
+An Spieler 2: NewCity cityId: 32 name: Brindisi x: 9 y: 9
+An Spieler 3: NewCity cityId: 32 name: Brindisi x: 9 y: 9
+An Spieler 0: NewCity cityId: 33 name: Sarajevo x: 10 y: 8
+An Spieler 1: NewCity cityId: 33 name: Sarajevo x: 10 y: 8
+An Spieler 2: NewCity cityId: 33 name: Sarajevo x: 10 y: 8
+An Spieler 3: NewCity cityId: 33 name: Sarajevo x: 10 y: 8
+An Spieler 0: NewCity cityId: 34 name: Athina x: 11 y: 11
+An Spieler 1: NewCity cityId: 34 name: Athina x: 11 y: 11
+An Spieler 2: NewCity cityId: 34 name: Athina x: 11 y: 11
+An Spieler 3: NewCity cityId: 34 name: Athina x: 11 y: 11
+An Spieler 0: NewCity cityId: 35 name: Sofia x: 12 y: 8
+An Spieler 1: NewCity cityId: 35 name: Sofia x: 12 y: 8
+An Spieler 2: NewCity cityId: 35 name: Sofia x: 12 y: 8
+An Spieler 3: NewCity cityId: 35 name: Sofia x: 12 y: 8
+An Spieler 0: NewCity cityId: 36 name: Bucuresti x: 13 y: 7
+An Spieler 1: NewCity cityId: 36 name: Bucuresti x: 13 y: 7
+An Spieler 2: NewCity cityId: 36 name: Bucuresti x: 13 y: 7
+An Spieler 3: NewCity cityId: 36 name: Bucuresti x: 13 y: 7
+An Spieler 0: NewCity cityId: 37 name: Smyrna x: 13 y: 12
+An Spieler 1: NewCity cityId: 37 name: Smyrna x: 13 y: 12
+An Spieler 2: NewCity cityId: 37 name: Smyrna x: 13 y: 12
+An Spieler 3: NewCity cityId: 37 name: Smyrna x: 13 y: 12
+An Spieler 0: NewCity cityId: 38 name: Angora x: 15 y: 11
+An Spieler 1: NewCity cityId: 38 name: Angora x: 15 y: 11
+An Spieler 2: NewCity cityId: 38 name: Angora x: 15 y: 11
+An Spieler 3: NewCity cityId: 38 name: Angora x: 15 y: 11
+An Spieler 0: NewCity cityId: 39 name: Erzurum x: 17 y: 10
+An Spieler 1: NewCity cityId: 39 name: Erzurum x: 17 y: 10
+An Spieler 2: NewCity cityId: 39 name: Erzurum x: 17 y: 10
+An Spieler 3: NewCity cityId: 39 name: Erzurum x: 17 y: 10
+An Spieler 0: NewCity cityId: 40 name: Constantinople x: 14 y: 10
+An Spieler 1: NewCity cityId: 40 name: Constantinople x: 14 y: 10
+An Spieler 2: NewCity cityId: 40 name: Constantinople x: 14 y: 10
+An Spieler 3: NewCity cityId: 40 name: Constantinople x: 14 y: 10
+An Spieler 0: NewCity cityId: 41 name: Sochi x: 17 y: 8
+An Spieler 1: NewCity cityId: 41 name: Sochi x: 17 y: 8
+An Spieler 2: NewCity cityId: 41 name: Sochi x: 17 y: 8
+An Spieler 3: NewCity cityId: 41 name: Sochi x: 17 y: 8
+An Spieler 0: NewCity cityId: 42 name: Rostov x: 17 y: 6
+An Spieler 1: NewCity cityId: 42 name: Rostov x: 17 y: 6
+An Spieler 2: NewCity cityId: 42 name: Rostov x: 17 y: 6
+An Spieler 3: NewCity cityId: 42 name: Rostov x: 17 y: 6
+An Spieler 0: NewCity cityId: 43 name: Kharkov x: 16 y: 5
+An Spieler 1: NewCity cityId: 43 name: Kharkov x: 16 y: 5
+An Spieler 2: NewCity cityId: 43 name: Kharkov x: 16 y: 5
+An Spieler 3: NewCity cityId: 43 name: Kharkov x: 16 y: 5
+An Spieler 0: NewCity cityId: 44 name: Sevastopol x: 15 y: 8
+An Spieler 1: NewCity cityId: 44 name: Sevastopol x: 15 y: 8
+An Spieler 2: NewCity cityId: 44 name: Sevastopol x: 15 y: 8
+An Spieler 3: NewCity cityId: 44 name: Sevastopol x: 15 y: 8
+An Spieler 0: NewCity cityId: 45 name: Brest x: 1 y: 6
+An Spieler 1: NewCity cityId: 45 name: Brest x: 1 y: 6
+An Spieler 2: NewCity cityId: 45 name: Brest x: 1 y: 6
+An Spieler 3: NewCity cityId: 45 name: Brest x: 1 y: 6
+An Spieler 0: NewCity cityId: 46 name: London x: 3 y: 3
+An Spieler 1: NewCity cityId: 46 name: London x: 3 y: 3
+An Spieler 2: NewCity cityId: 46 name: London x: 3 y: 3
+An Spieler 3: NewCity cityId: 46 name: London x: 3 y: 3
+An Spieler 0: NewTrack trackId: 0 city1: 0 city2: 46 length: 4 kind: BLACK tunnel: false
+An Spieler 1: NewTrack trackId: 0 city1: 0 city2: 46 length: 4 kind: BLACK tunnel: false
+An Spieler 2: NewTrack trackId: 0 city1: 0 city2: 46 length: 4 kind: BLACK tunnel: false
+An Spieler 3: NewTrack trackId: 0 city1: 0 city2: 46 length: 4 kind: BLACK tunnel: false
+An Spieler 0: NewTrack trackId: 1 city1: 0 city2: 46 length: 4 kind: ORANGE tunnel: false
+An Spieler 1: NewTrack trackId: 1 city1: 0 city2: 46 length: 4 kind: ORANGE tunnel: false
+An Spieler 2: NewTrack trackId: 1 city1: 0 city2: 46 length: 4 kind: ORANGE tunnel: false
+An Spieler 3: NewTrack trackId: 1 city1: 0 city2: 46 length: 4 kind: ORANGE tunnel: false
+An Spieler 0: NewTrack trackId: 2 city1: 9 city2: 46 length: 2 kind: ALL tunnel: true
+An Spieler 1: NewTrack trackId: 2 city1: 9 city2: 46 length: 2 kind: ALL tunnel: true
+An Spieler 2: NewTrack trackId: 2 city1: 9 city2: 46 length: 2 kind: ALL tunnel: true
+An Spieler 3: NewTrack trackId: 2 city1: 9 city2: 46 length: 2 kind: ALL tunnel: true
+An Spieler 0: NewTrack trackId: 3 city1: 6 city2: 46 length: 2 kind: ALL tunnel: true
+An Spieler 1: NewTrack trackId: 3 city1: 6 city2: 46 length: 2 kind: ALL tunnel: true
+An Spieler 2: NewTrack trackId: 3 city1: 6 city2: 46 length: 2 kind: ALL tunnel: true
+An Spieler 3: NewTrack trackId: 3 city1: 6 city2: 46 length: 2 kind: ALL tunnel: true
+An Spieler 0: NewTrack trackId: 4 city1: 6 city2: 46 length: 2 kind: ALL tunnel: true
+An Spieler 1: NewTrack trackId: 4 city1: 6 city2: 46 length: 2 kind: ALL tunnel: true
+An Spieler 2: NewTrack trackId: 4 city1: 6 city2: 46 length: 2 kind: ALL tunnel: true
+An Spieler 3: NewTrack trackId: 4 city1: 6 city2: 46 length: 2 kind: ALL tunnel: true
+An Spieler 0: NewTrack trackId: 5 city1: 6 city2: 45 length: 2 kind: ORANGE tunnel: false
+An Spieler 1: NewTrack trackId: 5 city1: 6 city2: 45 length: 2 kind: ORANGE tunnel: false
+An Spieler 2: NewTrack trackId: 5 city1: 6 city2: 45 length: 2 kind: ORANGE tunnel: false
+An Spieler 3: NewTrack trackId: 5 city1: 6 city2: 45 length: 2 kind: ORANGE tunnel: false
+An Spieler 0: NewTrack trackId: 6 city1: 5 city2: 45 length: 4 kind: VIOLET tunnel: false
+An Spieler 1: NewTrack trackId: 6 city1: 5 city2: 45 length: 4 kind: VIOLET tunnel: false
+An Spieler 2: NewTrack trackId: 6 city1: 5 city2: 45 length: 4 kind: VIOLET tunnel: false
+An Spieler 3: NewTrack trackId: 6 city1: 5 city2: 45 length: 4 kind: VIOLET tunnel: false
+An Spieler 0: NewTrack trackId: 7 city1: 5 city2: 7 length: 4 kind: BLUE tunnel: false
+An Spieler 1: NewTrack trackId: 7 city1: 5 city2: 7 length: 4 kind: BLUE tunnel: false
+An Spieler 2: NewTrack trackId: 7 city1: 5 city2: 7 length: 4 kind: BLUE tunnel: false
+An Spieler 3: NewTrack trackId: 7 city1: 5 city2: 7 length: 4 kind: BLUE tunnel: false
+An Spieler 0: NewTrack trackId: 8 city1: 5 city2: 7 length: 4 kind: GREEN tunnel: false
+An Spieler 1: NewTrack trackId: 8 city1: 5 city2: 7 length: 4 kind: GREEN tunnel: false
+An Spieler 2: NewTrack trackId: 8 city1: 5 city2: 7 length: 4 kind: GREEN tunnel: false
+An Spieler 3: NewTrack trackId: 8 city1: 5 city2: 7 length: 4 kind: GREEN tunnel: false
+An Spieler 0: NewTrack trackId: 9 city1: 6 city2: 7 length: 1 kind: VIOLET tunnel: false
+An Spieler 1: NewTrack trackId: 9 city1: 6 city2: 7 length: 1 kind: VIOLET tunnel: false
+An Spieler 2: NewTrack trackId: 9 city1: 6 city2: 7 length: 1 kind: VIOLET tunnel: false
+An Spieler 3: NewTrack trackId: 9 city1: 6 city2: 7 length: 1 kind: VIOLET tunnel: false
+An Spieler 0: NewTrack trackId: 10 city1: 6 city2: 8 length: 2 kind: GREEN tunnel: false
+An Spieler 1: NewTrack trackId: 10 city1: 6 city2: 8 length: 2 kind: GREEN tunnel: false
+An Spieler 2: NewTrack trackId: 10 city1: 6 city2: 8 length: 2 kind: GREEN tunnel: false
+An Spieler 3: NewTrack trackId: 10 city1: 6 city2: 8 length: 2 kind: GREEN tunnel: false
+An Spieler 0: NewTrack trackId: 11 city1: 7 city2: 8 length: 2 kind: RED tunnel: false
+An Spieler 1: NewTrack trackId: 11 city1: 7 city2: 8 length: 2 kind: RED tunnel: false
+An Spieler 2: NewTrack trackId: 11 city1: 7 city2: 8 length: 2 kind: RED tunnel: false
+An Spieler 3: NewTrack trackId: 11 city1: 7 city2: 8 length: 2 kind: RED tunnel: false
+An Spieler 0: NewTrack trackId: 12 city1: 7 city2: 8 length: 2 kind: YELLOW tunnel: false
+An Spieler 1: NewTrack trackId: 12 city1: 7 city2: 8 length: 2 kind: YELLOW tunnel: false
+An Spieler 2: NewTrack trackId: 12 city1: 7 city2: 8 length: 2 kind: YELLOW tunnel: false
+An Spieler 3: NewTrack trackId: 12 city1: 7 city2: 8 length: 2 kind: YELLOW tunnel: false
+An Spieler 0: NewTrack trackId: 13 city1: 9 city2: 8 length: 1 kind: BLACK tunnel: false
+An Spieler 1: NewTrack trackId: 13 city1: 9 city2: 8 length: 1 kind: BLACK tunnel: false
+An Spieler 2: NewTrack trackId: 13 city1: 9 city2: 8 length: 1 kind: BLACK tunnel: false
+An Spieler 3: NewTrack trackId: 13 city1: 9 city2: 8 length: 1 kind: BLACK tunnel: false
+An Spieler 0: NewTrack trackId: 14 city1: 11 city2: 8 length: 2 kind: BLUE tunnel: false
+An Spieler 1: NewTrack trackId: 14 city1: 11 city2: 8 length: 2 kind: BLUE tunnel: false
+An Spieler 2: NewTrack trackId: 14 city1: 11 city2: 8 length: 2 kind: BLUE tunnel: false
+An Spieler 3: NewTrack trackId: 14 city1: 11 city2: 8 length: 2 kind: BLUE tunnel: false
+An Spieler 0: NewTrack trackId: 15 city1: 10 city2: 11 length: 2 kind: GREEN tunnel: false
+An Spieler 1: NewTrack trackId: 15 city1: 10 city2: 11 length: 2 kind: GREEN tunnel: false
+An Spieler 2: NewTrack trackId: 15 city1: 10 city2: 11 length: 2 kind: GREEN tunnel: false
+An Spieler 3: NewTrack trackId: 15 city1: 10 city2: 11 length: 2 kind: GREEN tunnel: false
+An Spieler 0: NewTrack trackId: 16 city1: 9 city2: 11 length: 2 kind: WHITE tunnel: false
+An Spieler 1: NewTrack trackId: 16 city1: 9 city2: 11 length: 2 kind: WHITE tunnel: false
+An Spieler 2: NewTrack trackId: 16 city1: 9 city2: 11 length: 2 kind: WHITE tunnel: false
+An Spieler 3: NewTrack trackId: 16 city1: 9 city2: 11 length: 2 kind: WHITE tunnel: false
+An Spieler 0: NewTrack trackId: 17 city1: 10 city2: 9 length: 3 kind: YELLOW tunnel: false
+An Spieler 1: NewTrack trackId: 17 city1: 10 city2: 9 length: 3 kind: YELLOW tunnel: false
+An Spieler 2: NewTrack trackId: 17 city1: 10 city2: 9 length: 3 kind: YELLOW tunnel: false
+An Spieler 3: NewTrack trackId: 17 city1: 10 city2: 9 length: 3 kind: YELLOW tunnel: false
+An Spieler 0: NewTrack trackId: 18 city1: 10 city2: 15 length: 3 kind: ALL tunnel: true
+An Spieler 1: NewTrack trackId: 18 city1: 10 city2: 15 length: 3 kind: ALL tunnel: true
+An Spieler 2: NewTrack trackId: 18 city1: 10 city2: 15 length: 3 kind: ALL tunnel: true
+An Spieler 3: NewTrack trackId: 18 city1: 10 city2: 15 length: 3 kind: ALL tunnel: true
+An Spieler 0: NewTrack trackId: 19 city1: 10 city2: 15 length: 3 kind: ALL tunnel: true
+An Spieler 1: NewTrack trackId: 19 city1: 10 city2: 15 length: 3 kind: ALL tunnel: true
+An Spieler 2: NewTrack trackId: 19 city1: 10 city2: 15 length: 3 kind: ALL tunnel: true
+An Spieler 3: NewTrack trackId: 19 city1: 10 city2: 15 length: 3 kind: ALL tunnel: true
+An Spieler 0: NewTrack trackId: 20 city1: 16 city2: 15 length: 3 kind: YELLOW tunnel: false
+An Spieler 1: NewTrack trackId: 20 city1: 16 city2: 15 length: 3 kind: YELLOW tunnel: false
+An Spieler 2: NewTrack trackId: 20 city1: 16 city2: 15 length: 3 kind: YELLOW tunnel: false
+An Spieler 3: NewTrack trackId: 20 city1: 16 city2: 15 length: 3 kind: YELLOW tunnel: false
+An Spieler 0: NewTrack trackId: 21 city1: 16 city2: 15 length: 3 kind: WHITE tunnel: false
+An Spieler 1: NewTrack trackId: 21 city1: 16 city2: 15 length: 3 kind: WHITE tunnel: false
+An Spieler 2: NewTrack trackId: 21 city1: 16 city2: 15 length: 3 kind: WHITE tunnel: false
+An Spieler 3: NewTrack trackId: 21 city1: 16 city2: 15 length: 3 kind: WHITE tunnel: false
+An Spieler 0: NewTrack trackId: 22 city1: 2 city2: 5 length: 3 kind: WHITE tunnel: true
+An Spieler 1: NewTrack trackId: 22 city1: 2 city2: 5 length: 3 kind: WHITE tunnel: true
+An Spieler 2: NewTrack trackId: 22 city1: 2 city2: 5 length: 3 kind: WHITE tunnel: true
+An Spieler 3: NewTrack trackId: 22 city1: 2 city2: 5 length: 3 kind: WHITE tunnel: true
+An Spieler 0: NewTrack trackId: 23 city1: 2 city2: 5 length: 3 kind: BLACK tunnel: true
+An Spieler 1: NewTrack trackId: 23 city1: 2 city2: 5 length: 3 kind: BLACK tunnel: true
+An Spieler 2: NewTrack trackId: 23 city1: 2 city2: 5 length: 3 kind: BLACK tunnel: true
+An Spieler 3: NewTrack trackId: 23 city1: 2 city2: 5 length: 3 kind: BLACK tunnel: true
+An Spieler 0: NewTrack trackId: 24 city1: 4 city2: 5 length: 2 kind: ALL tunnel: true
+An Spieler 1: NewTrack trackId: 24 city1: 4 city2: 5 length: 2 kind: ALL tunnel: true
+An Spieler 2: NewTrack trackId: 24 city1: 4 city2: 5 length: 2 kind: ALL tunnel: true
+An Spieler 3: NewTrack trackId: 24 city1: 4 city2: 5 length: 2 kind: ALL tunnel: true
+An Spieler 0: NewTrack trackId: 25 city1: 2 city2: 4 length: 2 kind: YELLOW tunnel: false
+An Spieler 1: NewTrack trackId: 25 city1: 2 city2: 4 length: 2 kind: YELLOW tunnel: false
+An Spieler 2: NewTrack trackId: 25 city1: 2 city2: 4 length: 2 kind: YELLOW tunnel: false
+An Spieler 3: NewTrack trackId: 25 city1: 2 city2: 4 length: 2 kind: YELLOW tunnel: false
+An Spieler 0: NewTrack trackId: 26 city1: 3 city2: 2 length: 3 kind: ORANGE tunnel: false
+An Spieler 1: NewTrack trackId: 26 city1: 3 city2: 2 length: 3 kind: ORANGE tunnel: false
+An Spieler 2: NewTrack trackId: 26 city1: 3 city2: 2 length: 3 kind: ORANGE tunnel: false
+An Spieler 3: NewTrack trackId: 26 city1: 3 city2: 2 length: 3 kind: ORANGE tunnel: false
+An Spieler 0: NewTrack trackId: 27 city1: 1 city2: 2 length: 3 kind: VIOLET tunnel: false
+An Spieler 1: NewTrack trackId: 27 city1: 1 city2: 2 length: 3 kind: VIOLET tunnel: false
+An Spieler 2: NewTrack trackId: 27 city1: 1 city2: 2 length: 3 kind: VIOLET tunnel: false
+An Spieler 3: NewTrack trackId: 27 city1: 1 city2: 2 length: 3 kind: VIOLET tunnel: false
+An Spieler 0: NewTrack trackId: 28 city1: 3 city2: 1 length: 2 kind: BLUE tunnel: false
+An Spieler 1: NewTrack trackId: 28 city1: 3 city2: 1 length: 2 kind: BLUE tunnel: false
+An Spieler 2: NewTrack trackId: 28 city1: 3 city2: 1 length: 2 kind: BLUE tunnel: false
+An Spieler 3: NewTrack trackId: 28 city1: 3 city2: 1 length: 2 kind: BLUE tunnel: false
+An Spieler 0: NewTrack trackId: 29 city1: 4 city2: 13 length: 4 kind: ALL tunnel: false
+An Spieler 1: NewTrack trackId: 29 city1: 4 city2: 13 length: 4 kind: ALL tunnel: false
+An Spieler 2: NewTrack trackId: 29 city1: 4 city2: 13 length: 4 kind: ALL tunnel: false
+An Spieler 3: NewTrack trackId: 29 city1: 4 city2: 13 length: 4 kind: ALL tunnel: false
+An Spieler 0: NewTrack trackId: 30 city1: 5 city2: 13 length: 4 kind: RED tunnel: false
+An Spieler 1: NewTrack trackId: 30 city1: 5 city2: 13 length: 4 kind: RED tunnel: false
+An Spieler 2: NewTrack trackId: 30 city1: 5 city2: 13 length: 4 kind: RED tunnel: false
+An Spieler 3: NewTrack trackId: 30 city1: 5 city2: 13 length: 4 kind: RED tunnel: false
+An Spieler 0: NewTrack trackId: 31 city1: 7 city2: 13 length: 4 kind: ALL tunnel: false
+An Spieler 1: NewTrack trackId: 31 city1: 7 city2: 13 length: 4 kind: ALL tunnel: false
+An Spieler 2: NewTrack trackId: 31 city1: 7 city2: 13 length: 4 kind: ALL tunnel: false
+An Spieler 3: NewTrack trackId: 31 city1: 7 city2: 13 length: 4 kind: ALL tunnel: false
+An Spieler 0: NewTrack trackId: 32 city1: 12 city2: 13 length: 2 kind: VIOLET tunnel: true
+An Spieler 1: NewTrack trackId: 32 city1: 12 city2: 13 length: 2 kind: VIOLET tunnel: true
+An Spieler 2: NewTrack trackId: 32 city1: 12 city2: 13 length: 2 kind: VIOLET tunnel: true
+An Spieler 3: NewTrack trackId: 32 city1: 12 city2: 13 length: 2 kind: VIOLET tunnel: true
+An Spieler 0: NewTrack trackId: 33 city1: 19 city2: 13 length: 4 kind: ALL tunnel: true
+An Spieler 1: NewTrack trackId: 33 city1: 19 city2: 13 length: 4 kind: ALL tunnel: true
+An Spieler 2: NewTrack trackId: 33 city1: 19 city2: 13 length: 4 kind: ALL tunnel: true
+An Spieler 3: NewTrack trackId: 33 city1: 19 city2: 13 length: 4 kind: ALL tunnel: true
+An Spieler 0: NewTrack trackId: 34 city1: 7 city2: 12 length: 3 kind: ALL tunnel: true
+An Spieler 1: NewTrack trackId: 34 city1: 7 city2: 12 length: 3 kind: ALL tunnel: true
+An Spieler 2: NewTrack trackId: 34 city1: 7 city2: 12 length: 3 kind: ALL tunnel: true
+An Spieler 3: NewTrack trackId: 34 city1: 7 city2: 12 length: 3 kind: ALL tunnel: true
+An Spieler 0: NewTrack trackId: 35 city1: 17 city2: 12 length: 2 kind: YELLOW tunnel: true
+An Spieler 1: NewTrack trackId: 35 city1: 17 city2: 12 length: 2 kind: YELLOW tunnel: true
+An Spieler 2: NewTrack trackId: 35 city1: 17 city2: 12 length: 2 kind: YELLOW tunnel: true
+An Spieler 3: NewTrack trackId: 35 city1: 17 city2: 12 length: 2 kind: YELLOW tunnel: true
+An Spieler 0: NewTrack trackId: 36 city1: 18 city2: 12 length: 2 kind: GREEN tunnel: true
+An Spieler 1: NewTrack trackId: 36 city1: 18 city2: 12 length: 2 kind: GREEN tunnel: true
+An Spieler 2: NewTrack trackId: 36 city1: 18 city2: 12 length: 2 kind: GREEN tunnel: true
+An Spieler 3: NewTrack trackId: 36 city1: 18 city2: 12 length: 2 kind: GREEN tunnel: true
+An Spieler 0: NewTrack trackId: 37 city1: 18 city2: 17 length: 2 kind: BLUE tunnel: true
+An Spieler 1: NewTrack trackId: 37 city1: 18 city2: 17 length: 2 kind: BLUE tunnel: true
+An Spieler 2: NewTrack trackId: 37 city1: 18 city2: 17 length: 2 kind: BLUE tunnel: true
+An Spieler 3: NewTrack trackId: 37 city1: 18 city2: 17 length: 2 kind: BLUE tunnel: true
+An Spieler 0: NewTrack trackId: 38 city1: 7 city2: 11 length: 3 kind: ORANGE tunnel: false
+An Spieler 1: NewTrack trackId: 38 city1: 7 city2: 11 length: 3 kind: ORANGE tunnel: false
+An Spieler 2: NewTrack trackId: 38 city1: 7 city2: 11 length: 3 kind: ORANGE tunnel: false
+An Spieler 3: NewTrack trackId: 38 city1: 7 city2: 11 length: 3 kind: ORANGE tunnel: false
+An Spieler 0: NewTrack trackId: 39 city1: 7 city2: 11 length: 3 kind: WHITE tunnel: false
+An Spieler 1: NewTrack trackId: 39 city1: 7 city2: 11 length: 3 kind: WHITE tunnel: false
+An Spieler 2: NewTrack trackId: 39 city1: 7 city2: 11 length: 3 kind: WHITE tunnel: false
+An Spieler 3: NewTrack trackId: 39 city1: 7 city2: 11 length: 3 kind: WHITE tunnel: false
+An Spieler 0: NewTrack trackId: 40 city1: 17 city2: 11 length: 2 kind: VIOLET tunnel: false
+An Spieler 1: NewTrack trackId: 40 city1: 17 city2: 11 length: 2 kind: VIOLET tunnel: false
+An Spieler 2: NewTrack trackId: 40 city1: 17 city2: 11 length: 2 kind: VIOLET tunnel: false
+An Spieler 3: NewTrack trackId: 40 city1: 17 city2: 11 length: 2 kind: VIOLET tunnel: false
+An Spieler 0: NewTrack trackId: 41 city1: 14 city2: 11 length: 3 kind: BLACK tunnel: false
+An Spieler 1: NewTrack trackId: 41 city1: 14 city2: 11 length: 3 kind: BLACK tunnel: false
+An Spieler 2: NewTrack trackId: 41 city1: 14 city2: 11 length: 3 kind: BLACK tunnel: false
+An Spieler 3: NewTrack trackId: 41 city1: 14 city2: 11 length: 3 kind: BLACK tunnel: false
+An Spieler 0: NewTrack trackId: 42 city1: 14 city2: 11 length: 3 kind: RED tunnel: false
+An Spieler 1: NewTrack trackId: 42 city1: 14 city2: 11 length: 3 kind: RED tunnel: false
+An Spieler 2: NewTrack trackId: 42 city1: 14 city2: 11 length: 3 kind: RED tunnel: false
+An Spieler 3: NewTrack trackId: 42 city1: 14 city2: 11 length: 3 kind: RED tunnel: false
+An Spieler 0: NewTrack trackId: 43 city1: 14 city2: 29 length: 3 kind: GREEN tunnel: false
+An Spieler 1: NewTrack trackId: 43 city1: 14 city2: 29 length: 3 kind: GREEN tunnel: false
+An Spieler 2: NewTrack trackId: 43 city1: 14 city2: 29 length: 3 kind: GREEN tunnel: false
+An Spieler 3: NewTrack trackId: 43 city1: 14 city2: 29 length: 3 kind: GREEN tunnel: false
+An Spieler 0: NewTrack trackId: 44 city1: 17 city2: 29 length: 3 kind: ORANGE tunnel: false
+An Spieler 1: NewTrack trackId: 44 city1: 17 city2: 29 length: 3 kind: ORANGE tunnel: false
+An Spieler 2: NewTrack trackId: 44 city1: 17 city2: 29 length: 3 kind: ORANGE tunnel: false
+An Spieler 3: NewTrack trackId: 44 city1: 17 city2: 29 length: 3 kind: ORANGE tunnel: false
+An Spieler 0: NewTrack trackId: 45 city1: 31 city2: 29 length: 2 kind: ALL tunnel: false
+An Spieler 1: NewTrack trackId: 45 city1: 31 city2: 29 length: 2 kind: ALL tunnel: false
+An Spieler 2: NewTrack trackId: 45 city1: 31 city2: 29 length: 2 kind: ALL tunnel: false
+An Spieler 3: NewTrack trackId: 45 city1: 31 city2: 29 length: 2 kind: ALL tunnel: false
+An Spieler 0: NewTrack trackId: 46 city1: 18 city2: 31 length: 2 kind: ALL tunnel: false
+An Spieler 1: NewTrack trackId: 46 city1: 18 city2: 31 length: 2 kind: ALL tunnel: false
+An Spieler 2: NewTrack trackId: 46 city1: 18 city2: 31 length: 2 kind: ALL tunnel: false
+An Spieler 3: NewTrack trackId: 46 city1: 18 city2: 31 length: 2 kind: ALL tunnel: false
+An Spieler 0: NewTrack trackId: 47 city1: 18 city2: 19 length: 2 kind: BLACK tunnel: false
+An Spieler 1: NewTrack trackId: 47 city1: 18 city2: 19 length: 2 kind: BLACK tunnel: false
+An Spieler 2: NewTrack trackId: 47 city1: 18 city2: 19 length: 2 kind: BLACK tunnel: false
+An Spieler 3: NewTrack trackId: 47 city1: 18 city2: 19 length: 2 kind: BLACK tunnel: false
+An Spieler 0: NewTrack trackId: 48 city1: 32 city2: 19 length: 2 kind: WHITE tunnel: false
+An Spieler 1: NewTrack trackId: 48 city1: 32 city2: 19 length: 2 kind: WHITE tunnel: false
+An Spieler 2: NewTrack trackId: 48 city1: 32 city2: 19 length: 2 kind: WHITE tunnel: false
+An Spieler 3: NewTrack trackId: 48 city1: 32 city2: 19 length: 2 kind: WHITE tunnel: false
+An Spieler 0: NewTrack trackId: 49 city1: 20 city2: 19 length: 4 kind: ALL tunnel: false
+An Spieler 1: NewTrack trackId: 49 city1: 20 city2: 19 length: 4 kind: ALL tunnel: false
+An Spieler 2: NewTrack trackId: 49 city1: 20 city2: 19 length: 4 kind: ALL tunnel: false
+An Spieler 3: NewTrack trackId: 49 city1: 20 city2: 19 length: 4 kind: ALL tunnel: false
+An Spieler 0: NewTrack trackId: 50 city1: 20 city2: 32 length: 3 kind: ALL tunnel: false
+An Spieler 1: NewTrack trackId: 50 city1: 20 city2: 32 length: 3 kind: ALL tunnel: false
+An Spieler 2: NewTrack trackId: 50 city1: 20 city2: 32 length: 3 kind: ALL tunnel: false
+An Spieler 3: NewTrack trackId: 50 city1: 20 city2: 32 length: 3 kind: ALL tunnel: false
+An Spieler 0: NewTrack trackId: 51 city1: 34 city2: 32 length: 4 kind: ALL tunnel: false
+An Spieler 1: NewTrack trackId: 51 city1: 34 city2: 32 length: 4 kind: ALL tunnel: false
+An Spieler 2: NewTrack trackId: 51 city1: 34 city2: 32 length: 4 kind: ALL tunnel: false
+An Spieler 3: NewTrack trackId: 51 city1: 34 city2: 32 length: 4 kind: ALL tunnel: false
+An Spieler 0: NewTrack trackId: 52 city1: 31 city2: 33 length: 3 kind: RED tunnel: false
+An Spieler 1: NewTrack trackId: 52 city1: 31 city2: 33 length: 3 kind: RED tunnel: false
+An Spieler 2: NewTrack trackId: 52 city1: 31 city2: 33 length: 3 kind: RED tunnel: false
+An Spieler 3: NewTrack trackId: 52 city1: 31 city2: 33 length: 3 kind: RED tunnel: false
+An Spieler 0: NewTrack trackId: 53 city1: 31 city2: 30 length: 2 kind: ORANGE tunnel: false
+An Spieler 1: NewTrack trackId: 53 city1: 31 city2: 30 length: 2 kind: ORANGE tunnel: false
+An Spieler 2: NewTrack trackId: 53 city1: 31 city2: 30 length: 2 kind: ORANGE tunnel: false
+An Spieler 3: NewTrack trackId: 53 city1: 31 city2: 30 length: 2 kind: ORANGE tunnel: false
+An Spieler 0: NewTrack trackId: 54 city1: 29 city2: 30 length: 1 kind: RED tunnel: false
+An Spieler 1: NewTrack trackId: 54 city1: 29 city2: 30 length: 1 kind: RED tunnel: false
+An Spieler 2: NewTrack trackId: 54 city1: 29 city2: 30 length: 1 kind: RED tunnel: false
+An Spieler 3: NewTrack trackId: 54 city1: 29 city2: 30 length: 1 kind: RED tunnel: false
+An Spieler 0: NewTrack trackId: 55 city1: 29 city2: 30 length: 1 kind: WHITE tunnel: false
+An Spieler 1: NewTrack trackId: 55 city1: 29 city2: 30 length: 1 kind: WHITE tunnel: false
+An Spieler 2: NewTrack trackId: 55 city1: 29 city2: 30 length: 1 kind: WHITE tunnel: false
+An Spieler 3: NewTrack trackId: 55 city1: 29 city2: 30 length: 1 kind: WHITE tunnel: false
+An Spieler 0: NewTrack trackId: 56 city1: 14 city2: 10 length: 2 kind: BLUE tunnel: false
+An Spieler 1: NewTrack trackId: 56 city1: 14 city2: 10 length: 2 kind: BLUE tunnel: false
+An Spieler 2: NewTrack trackId: 56 city1: 14 city2: 10 length: 2 kind: BLUE tunnel: false
+An Spieler 3: NewTrack trackId: 56 city1: 14 city2: 10 length: 2 kind: BLUE tunnel: false
+An Spieler 0: NewTrack trackId: 57 city1: 27 city2: 16 length: 6 kind: ALL tunnel: true
+An Spieler 1: NewTrack trackId: 57 city1: 27 city2: 16 length: 6 kind: ALL tunnel: true
+An Spieler 2: NewTrack trackId: 57 city1: 27 city2: 16 length: 6 kind: ALL tunnel: true
+An Spieler 3: NewTrack trackId: 57 city1: 27 city2: 16 length: 6 kind: ALL tunnel: true
+An Spieler 0: NewTrack trackId: 58 city1: 21 city2: 14 length: 4 kind: ALL tunnel: false
+An Spieler 1: NewTrack trackId: 58 city1: 21 city2: 14 length: 4 kind: ALL tunnel: false
+An Spieler 2: NewTrack trackId: 58 city1: 21 city2: 14 length: 4 kind: ALL tunnel: false
+An Spieler 3: NewTrack trackId: 58 city1: 21 city2: 14 length: 4 kind: ALL tunnel: false
+An Spieler 0: NewTrack trackId: 59 city1: 25 city2: 14 length: 4 kind: VIOLET tunnel: false
+An Spieler 1: NewTrack trackId: 59 city1: 25 city2: 14 length: 4 kind: VIOLET tunnel: false
+An Spieler 2: NewTrack trackId: 59 city1: 25 city2: 14 length: 4 kind: VIOLET tunnel: false
+An Spieler 3: NewTrack trackId: 59 city1: 25 city2: 14 length: 4 kind: VIOLET tunnel: false
+An Spieler 0: NewTrack trackId: 60 city1: 25 city2: 14 length: 4 kind: YELLOW tunnel: false
+An Spieler 1: NewTrack trackId: 60 city1: 25 city2: 14 length: 4 kind: YELLOW tunnel: false
+An Spieler 2: NewTrack trackId: 60 city1: 25 city2: 14 length: 4 kind: YELLOW tunnel: false
+An Spieler 3: NewTrack trackId: 60 city1: 25 city2: 14 length: 4 kind: YELLOW tunnel: false
+An Spieler 0: NewTrack trackId: 61 city1: 25 city2: 21 length: 2 kind: ALL tunnel: false
+An Spieler 1: NewTrack trackId: 61 city1: 25 city2: 21 length: 2 kind: ALL tunnel: false
+An Spieler 2: NewTrack trackId: 61 city1: 25 city2: 21 length: 2 kind: ALL tunnel: false
+An Spieler 3: NewTrack trackId: 61 city1: 25 city2: 21 length: 2 kind: ALL tunnel: false
+An Spieler 0: NewTrack trackId: 62 city1: 25 city2: 29 length: 4 kind: BLUE tunnel: false
+An Spieler 1: NewTrack trackId: 62 city1: 25 city2: 29 length: 4 kind: BLUE tunnel: false
+An Spieler 2: NewTrack trackId: 62 city1: 25 city2: 29 length: 4 kind: BLUE tunnel: false
+An Spieler 3: NewTrack trackId: 62 city1: 25 city2: 29 length: 4 kind: BLUE tunnel: false
+An Spieler 0: NewTrack trackId: 63 city1: 27 city2: 22 length: 4 kind: ALL tunnel: false
+An Spieler 1: NewTrack trackId: 63 city1: 27 city2: 22 length: 4 kind: ALL tunnel: false
+An Spieler 2: NewTrack trackId: 63 city1: 27 city2: 22 length: 4 kind: ALL tunnel: false
+An Spieler 3: NewTrack trackId: 63 city1: 27 city2: 22 length: 4 kind: ALL tunnel: false
+An Spieler 0: NewTrack trackId: 64 city1: 21 city2: 22 length: 3 kind: BLACK tunnel: false
+An Spieler 1: NewTrack trackId: 64 city1: 21 city2: 22 length: 3 kind: BLACK tunnel: false
+An Spieler 2: NewTrack trackId: 64 city1: 21 city2: 22 length: 3 kind: BLACK tunnel: false
+An Spieler 3: NewTrack trackId: 64 city1: 21 city2: 22 length: 3 kind: BLACK tunnel: false
+An Spieler 0: NewTrack trackId: 65 city1: 24 city2: 22 length: 4 kind: GREEN tunnel: false
+An Spieler 1: NewTrack trackId: 65 city1: 24 city2: 22 length: 4 kind: GREEN tunnel: false
+An Spieler 2: NewTrack trackId: 65 city1: 24 city2: 22 length: 4 kind: GREEN tunnel: false
+An Spieler 3: NewTrack trackId: 65 city1: 24 city2: 22 length: 4 kind: GREEN tunnel: false
+An Spieler 0: NewTrack trackId: 66 city1: 24 city2: 25 length: 3 kind: RED tunnel: false
+An Spieler 1: NewTrack trackId: 66 city1: 24 city2: 25 length: 3 kind: RED tunnel: false
+An Spieler 2: NewTrack trackId: 66 city1: 24 city2: 25 length: 3 kind: RED tunnel: false
+An Spieler 3: NewTrack trackId: 66 city1: 24 city2: 25 length: 3 kind: RED tunnel: false
+An Spieler 0: NewTrack trackId: 67 city1: 24 city2: 23 length: 3 kind: YELLOW tunnel: false
+An Spieler 1: NewTrack trackId: 67 city1: 24 city2: 23 length: 3 kind: YELLOW tunnel: false
+An Spieler 2: NewTrack trackId: 67 city1: 24 city2: 23 length: 3 kind: YELLOW tunnel: false
+An Spieler 3: NewTrack trackId: 67 city1: 24 city2: 23 length: 3 kind: YELLOW tunnel: false
+An Spieler 0: NewTrack trackId: 68 city1: 24 city2: 27 length: 4 kind: BLUE tunnel: false
+An Spieler 1: NewTrack trackId: 68 city1: 24 city2: 27 length: 4 kind: BLUE tunnel: false
+An Spieler 2: NewTrack trackId: 68 city1: 24 city2: 27 length: 4 kind: BLUE tunnel: false
+An Spieler 3: NewTrack trackId: 68 city1: 24 city2: 27 length: 4 kind: BLUE tunnel: false
+An Spieler 0: NewTrack trackId: 69 city1: 23 city2: 26 length: 2 kind: ORANGE tunnel: false
+An Spieler 1: NewTrack trackId: 69 city1: 23 city2: 26 length: 2 kind: ORANGE tunnel: false
+An Spieler 2: NewTrack trackId: 69 city1: 23 city2: 26 length: 2 kind: ORANGE tunnel: false
+An Spieler 3: NewTrack trackId: 69 city1: 23 city2: 26 length: 2 kind: ORANGE tunnel: false
+An Spieler 0: NewTrack trackId: 70 city1: 27 city2: 26 length: 4 kind: WHITE tunnel: false
+An Spieler 1: NewTrack trackId: 70 city1: 27 city2: 26 length: 4 kind: WHITE tunnel: false
+An Spieler 2: NewTrack trackId: 70 city1: 27 city2: 26 length: 4 kind: WHITE tunnel: false
+An Spieler 3: NewTrack trackId: 70 city1: 27 city2: 26 length: 4 kind: WHITE tunnel: false
+An Spieler 0: NewTrack trackId: 71 city1: 28 city2: 25 length: 4 kind: ALL tunnel: false
+An Spieler 1: NewTrack trackId: 71 city1: 28 city2: 25 length: 4 kind: ALL tunnel: false
+An Spieler 2: NewTrack trackId: 71 city1: 28 city2: 25 length: 4 kind: ALL tunnel: false
+An Spieler 3: NewTrack trackId: 71 city1: 28 city2: 25 length: 4 kind: ALL tunnel: false
+An Spieler 0: NewTrack trackId: 72 city1: 28 city2: 24 length: 2 kind: ALL tunnel: false
+An Spieler 1: NewTrack trackId: 72 city1: 28 city2: 24 length: 2 kind: ALL tunnel: false
+An Spieler 2: NewTrack trackId: 72 city1: 28 city2: 24 length: 2 kind: ALL tunnel: false
+An Spieler 3: NewTrack trackId: 72 city1: 28 city2: 24 length: 2 kind: ALL tunnel: false
+An Spieler 0: NewTrack trackId: 73 city1: 28 city2: 23 length: 3 kind: RED tunnel: false
+An Spieler 1: NewTrack trackId: 73 city1: 28 city2: 23 length: 3 kind: RED tunnel: false
+An Spieler 2: NewTrack trackId: 73 city1: 28 city2: 23 length: 3 kind: RED tunnel: false
+An Spieler 3: NewTrack trackId: 73 city1: 28 city2: 23 length: 3 kind: RED tunnel: false
+An Spieler 0: NewTrack trackId: 74 city1: 43 city2: 26 length: 4 kind: ALL tunnel: false
+An Spieler 1: NewTrack trackId: 74 city1: 43 city2: 26 length: 4 kind: ALL tunnel: false
+An Spieler 2: NewTrack trackId: 74 city1: 43 city2: 26 length: 4 kind: ALL tunnel: false
+An Spieler 3: NewTrack trackId: 74 city1: 43 city2: 26 length: 4 kind: ALL tunnel: false
+An Spieler 0: NewTrack trackId: 75 city1: 43 city2: 28 length: 4 kind: ALL tunnel: false
+An Spieler 1: NewTrack trackId: 75 city1: 43 city2: 28 length: 4 kind: ALL tunnel: false
+An Spieler 2: NewTrack trackId: 75 city1: 43 city2: 28 length: 4 kind: ALL tunnel: false
+An Spieler 3: NewTrack trackId: 75 city1: 43 city2: 28 length: 4 kind: ALL tunnel: false
+An Spieler 0: NewTrack trackId: 76 city1: 30 city2: 28 length: 6 kind: ALL tunnel: true
+An Spieler 1: NewTrack trackId: 76 city1: 30 city2: 28 length: 6 kind: ALL tunnel: true
+An Spieler 2: NewTrack trackId: 76 city1: 30 city2: 28 length: 6 kind: ALL tunnel: true
+An Spieler 3: NewTrack trackId: 76 city1: 30 city2: 28 length: 6 kind: ALL tunnel: true
+An Spieler 0: NewTrack trackId: 77 city1: 30 city2: 36 length: 4 kind: ALL tunnel: true
+An Spieler 1: NewTrack trackId: 77 city1: 30 city2: 36 length: 4 kind: ALL tunnel: true
+An Spieler 2: NewTrack trackId: 77 city1: 30 city2: 36 length: 4 kind: ALL tunnel: true
+An Spieler 3: NewTrack trackId: 77 city1: 30 city2: 36 length: 4 kind: ALL tunnel: true
+An Spieler 0: NewTrack trackId: 78 city1: 28 city2: 36 length: 4 kind: ALL tunnel: false
+An Spieler 1: NewTrack trackId: 78 city1: 28 city2: 36 length: 4 kind: ALL tunnel: false
+An Spieler 2: NewTrack trackId: 78 city1: 28 city2: 36 length: 4 kind: ALL tunnel: false
+An Spieler 3: NewTrack trackId: 78 city1: 28 city2: 36 length: 4 kind: ALL tunnel: false
+An Spieler 0: NewTrack trackId: 79 city1: 33 city2: 34 length: 4 kind: GREEN tunnel: false
+An Spieler 1: NewTrack trackId: 79 city1: 33 city2: 34 length: 4 kind: GREEN tunnel: false
+An Spieler 2: NewTrack trackId: 79 city1: 33 city2: 34 length: 4 kind: GREEN tunnel: false
+An Spieler 3: NewTrack trackId: 79 city1: 33 city2: 34 length: 4 kind: GREEN tunnel: false
+An Spieler 0: NewTrack trackId: 80 city1: 35 city2: 34 length: 3 kind: VIOLET tunnel: false
+An Spieler 1: NewTrack trackId: 80 city1: 35 city2: 34 length: 3 kind: VIOLET tunnel: false
+An Spieler 2: NewTrack trackId: 80 city1: 35 city2: 34 length: 3 kind: VIOLET tunnel: false
+An Spieler 3: NewTrack trackId: 80 city1: 35 city2: 34 length: 3 kind: VIOLET tunnel: false
+An Spieler 0: NewTrack trackId: 81 city1: 37 city2: 34 length: 2 kind: ALL tunnel: false
+An Spieler 1: NewTrack trackId: 81 city1: 37 city2: 34 length: 2 kind: ALL tunnel: false
+An Spieler 2: NewTrack trackId: 81 city1: 37 city2: 34 length: 2 kind: ALL tunnel: false
+An Spieler 3: NewTrack trackId: 81 city1: 37 city2: 34 length: 2 kind: ALL tunnel: false
+An Spieler 0: NewTrack trackId: 82 city1: 37 city2: 38 length: 3 kind: ORANGE tunnel: true
+An Spieler 1: NewTrack trackId: 82 city1: 37 city2: 38 length: 3 kind: ORANGE tunnel: true
+An Spieler 2: NewTrack trackId: 82 city1: 37 city2: 38 length: 3 kind: ORANGE tunnel: true
+An Spieler 3: NewTrack trackId: 82 city1: 37 city2: 38 length: 3 kind: ORANGE tunnel: true
+An Spieler 0: NewTrack trackId: 83 city1: 43 city2: 42 length: 2 kind: GREEN tunnel: false
+An Spieler 1: NewTrack trackId: 83 city1: 43 city2: 42 length: 2 kind: GREEN tunnel: false
+An Spieler 2: NewTrack trackId: 83 city1: 43 city2: 42 length: 2 kind: GREEN tunnel: false
+An Spieler 3: NewTrack trackId: 83 city1: 43 city2: 42 length: 2 kind: GREEN tunnel: false
+An Spieler 0: NewTrack trackId: 84 city1: 39 city2: 41 length: 3 kind: RED tunnel: true
+An Spieler 1: NewTrack trackId: 84 city1: 39 city2: 41 length: 3 kind: RED tunnel: true
+An Spieler 2: NewTrack trackId: 84 city1: 39 city2: 41 length: 3 kind: RED tunnel: true
+An Spieler 3: NewTrack trackId: 84 city1: 39 city2: 41 length: 3 kind: RED tunnel: true
+An Spieler 0: NewTrack trackId: 85 city1: 42 city2: 41 length: 2 kind: ALL tunnel: false
+An Spieler 1: NewTrack trackId: 85 city1: 42 city2: 41 length: 2 kind: ALL tunnel: false
+An Spieler 2: NewTrack trackId: 85 city1: 42 city2: 41 length: 2 kind: ALL tunnel: false
+An Spieler 3: NewTrack trackId: 85 city1: 42 city2: 41 length: 2 kind: ALL tunnel: false
+An Spieler 0: NewTrack trackId: 86 city1: 42 city2: 44 length: 4 kind: ALL tunnel: false
+An Spieler 1: NewTrack trackId: 86 city1: 42 city2: 44 length: 4 kind: ALL tunnel: false
+An Spieler 2: NewTrack trackId: 86 city1: 42 city2: 44 length: 4 kind: ALL tunnel: false
+An Spieler 3: NewTrack trackId: 86 city1: 42 city2: 44 length: 4 kind: ALL tunnel: false
+An Spieler 0: NewTrack trackId: 87 city1: 39 city2: 44 length: 4 kind: ALL tunnel: false
+An Spieler 1: NewTrack trackId: 87 city1: 39 city2: 44 length: 4 kind: ALL tunnel: false
+An Spieler 2: NewTrack trackId: 87 city1: 39 city2: 44 length: 4 kind: ALL tunnel: false
+An Spieler 3: NewTrack trackId: 87 city1: 39 city2: 44 length: 4 kind: ALL tunnel: false
+An Spieler 0: NewTrack trackId: 88 city1: 38 city2: 39 length: 3 kind: BLACK tunnel: false
+An Spieler 1: NewTrack trackId: 88 city1: 38 city2: 39 length: 3 kind: BLACK tunnel: false
+An Spieler 2: NewTrack trackId: 88 city1: 38 city2: 39 length: 3 kind: BLACK tunnel: false
+An Spieler 3: NewTrack trackId: 88 city1: 38 city2: 39 length: 3 kind: BLACK tunnel: false
+An Spieler 0: NewTrack trackId: 89 city1: 38 city2: 40 length: 2 kind: ALL tunnel: true
+An Spieler 1: NewTrack trackId: 89 city1: 38 city2: 40 length: 2 kind: ALL tunnel: true
+An Spieler 2: NewTrack trackId: 89 city1: 38 city2: 40 length: 2 kind: ALL tunnel: true
+An Spieler 3: NewTrack trackId: 89 city1: 38 city2: 40 length: 2 kind: ALL tunnel: true
+An Spieler 0: NewTrack trackId: 90 city1: 37 city2: 40 length: 2 kind: ALL tunnel: true
+An Spieler 1: NewTrack trackId: 90 city1: 37 city2: 40 length: 2 kind: ALL tunnel: true
+An Spieler 2: NewTrack trackId: 90 city1: 37 city2: 40 length: 2 kind: ALL tunnel: true
+An Spieler 3: NewTrack trackId: 90 city1: 37 city2: 40 length: 2 kind: ALL tunnel: true
+An Spieler 0: NewTrack trackId: 91 city1: 35 city2: 40 length: 3 kind: BLUE tunnel: false
+An Spieler 1: NewTrack trackId: 91 city1: 35 city2: 40 length: 3 kind: BLUE tunnel: false
+An Spieler 2: NewTrack trackId: 91 city1: 35 city2: 40 length: 3 kind: BLUE tunnel: false
+An Spieler 3: NewTrack trackId: 91 city1: 35 city2: 40 length: 3 kind: BLUE tunnel: false
+An Spieler 0: NewTrack trackId: 92 city1: 33 city2: 35 length: 2 kind: ALL tunnel: true
+An Spieler 1: NewTrack trackId: 92 city1: 33 city2: 35 length: 2 kind: ALL tunnel: true
+An Spieler 2: NewTrack trackId: 92 city1: 33 city2: 35 length: 2 kind: ALL tunnel: true
+An Spieler 3: NewTrack trackId: 92 city1: 33 city2: 35 length: 2 kind: ALL tunnel: true
+An Spieler 0: NewTrack trackId: 93 city1: 36 city2: 35 length: 2 kind: ALL tunnel: true
+An Spieler 1: NewTrack trackId: 93 city1: 36 city2: 35 length: 2 kind: ALL tunnel: true
+An Spieler 2: NewTrack trackId: 93 city1: 36 city2: 35 length: 2 kind: ALL tunnel: true
+An Spieler 3: NewTrack trackId: 93 city1: 36 city2: 35 length: 2 kind: ALL tunnel: true
+An Spieler 0: NewTrack trackId: 94 city1: 36 city2: 40 length: 3 kind: YELLOW tunnel: false
+An Spieler 1: NewTrack trackId: 94 city1: 36 city2: 40 length: 3 kind: YELLOW tunnel: false
+An Spieler 2: NewTrack trackId: 94 city1: 36 city2: 40 length: 3 kind: YELLOW tunnel: false
+An Spieler 3: NewTrack trackId: 94 city1: 36 city2: 40 length: 3 kind: YELLOW tunnel: false
+An Spieler 0: NewTrack trackId: 95 city1: 40 city2: 44 length: 4 kind: ALL tunnel: false
+An Spieler 1: NewTrack trackId: 95 city1: 40 city2: 44 length: 4 kind: ALL tunnel: false
+An Spieler 2: NewTrack trackId: 95 city1: 40 city2: 44 length: 4 kind: ALL tunnel: false
+An Spieler 3: NewTrack trackId: 95 city1: 40 city2: 44 length: 4 kind: ALL tunnel: false
+An Spieler 0: NewTrack trackId: 96 city1: 36 city2: 44 length: 4 kind: WHITE tunnel: false
+An Spieler 1: NewTrack trackId: 96 city1: 36 city2: 44 length: 4 kind: WHITE tunnel: false
+An Spieler 2: NewTrack trackId: 96 city1: 36 city2: 44 length: 4 kind: WHITE tunnel: false
+An Spieler 3: NewTrack trackId: 96 city1: 36 city2: 44 length: 4 kind: WHITE tunnel: false
+An Spieler 0: NewTrack trackId: 97 city1: 20 city2: 37 length: 6 kind: ALL tunnel: false
+An Spieler 1: NewTrack trackId: 97 city1: 20 city2: 37 length: 6 kind: ALL tunnel: false
+An Spieler 2: NewTrack trackId: 97 city1: 20 city2: 37 length: 6 kind: ALL tunnel: false
+An Spieler 3: NewTrack trackId: 97 city1: 20 city2: 37 length: 6 kind: ALL tunnel: false
+An Spieler 0: NewTrack trackId: 98 city1: 7 city2: 45 length: 3 kind: BLACK tunnel: false
+An Spieler 1: NewTrack trackId: 98 city1: 7 city2: 45 length: 3 kind: BLACK tunnel: false
+An Spieler 2: NewTrack trackId: 98 city1: 7 city2: 45 length: 3 kind: BLACK tunnel: false
+An Spieler 3: NewTrack trackId: 98 city1: 7 city2: 45 length: 3 kind: BLACK tunnel: false
+An Spieler 0: NewTrack trackId: 99 city1: 33 city2: 30 length: 3 kind: VIOLET tunnel: false
+An Spieler 1: NewTrack trackId: 99 city1: 33 city2: 30 length: 3 kind: VIOLET tunnel: false
+An Spieler 2: NewTrack trackId: 99 city1: 33 city2: 30 length: 3 kind: VIOLET tunnel: false
+An Spieler 3: NewTrack trackId: 99 city1: 33 city2: 30 length: 3 kind: VIOLET tunnel: false
+nextInt(1079) = 842
+An Spieler 0: NewOpenCard kind: GREEN
+An Spieler 1: NewOpenCard kind: GREEN
+An Spieler 2: NewOpenCard kind: GREEN
+An Spieler 3: NewOpenCard kind: GREEN
+nextInt(1078) = 802
+An Spieler 0: NewOpenCard kind: RED
+An Spieler 1: NewOpenCard kind: RED
+An Spieler 2: NewOpenCard kind: RED
+An Spieler 3: NewOpenCard kind: RED
+nextInt(1077) = 404
+An Spieler 0: NewOpenCard kind: YELLOW
+An Spieler 1: NewOpenCard kind: YELLOW
+An Spieler 2: NewOpenCard kind: YELLOW
+An Spieler 3: NewOpenCard kind: YELLOW
+nextInt(1076) = 515
+An Spieler 0: NewOpenCard kind: ORANGE
+An Spieler 1: NewOpenCard kind: ORANGE
+An Spieler 2: NewOpenCard kind: ORANGE
+An Spieler 3: NewOpenCard kind: ORANGE
+nextInt(1075) = 44
+An Spieler 0: NewOpenCard kind: VIOLET
+An Spieler 1: NewOpenCard kind: VIOLET
+An Spieler 2: NewOpenCard kind: VIOLET
+An Spieler 3: NewOpenCard kind: VIOLET
+nextInt(1074) = 202
+nextInt(1073) = 996
+nextInt(1072) = 672
+nextInt(1071) = 334
+An Spieler 0: NewCards kind: WHITE count: 1
+An Spieler 0: NewCards kind: BLUE count: 1
+An Spieler 0: NewCards kind: BLACK count: 1
+An Spieler 0: NewCards kind: ALL count: 1
+nextInt(45) = 9
+nextInt(44) = 42
+nextInt(43) = 11
+An Spieler 0: NewMissions missions: Mission start: 35 destination: 37 points: 5, Mission start: 20 destination: 26 points: 20, Mission start: 12 destination: 30 points: 6, 
+nextInt(1070) = 75
+nextInt(1069) = 88
+nextInt(1068) = 803
+nextInt(1067) = 170
+An Spieler 1: NewCards kind: VIOLET count: 2
+An Spieler 1: NewCards kind: WHITE count: 1
+An Spieler 1: NewCards kind: RED count: 1
+nextInt(42) = 1
+nextInt(41) = 8
+nextInt(40) = 3
+An Spieler 1: NewMissions missions: Mission start: 33 destination: 44 points: 8, Mission start: 28 destination: 27 points: 6, Mission start: 12 destination: 32 points: 6, 
+ReturnMissions playerId: 1 missions: 
+An Spieler 0: TookMissions playerId: 1 count: 3
+An Spieler 1: TookMissions playerId: 1 count: 3
+An Spieler 2: TookMissions playerId: 1 count: 3
+An Spieler 3: TookMissions playerId: 1 count: 3
+ReturnMissions playerId: 0 missions: 
+An Spieler 0: TookMissions playerId: 0 count: 3
+An Spieler 1: TookMissions playerId: 0 count: 3
+An Spieler 2: TookMissions playerId: 0 count: 3
+An Spieler 3: TookMissions playerId: 0 count: 3
+An Spieler 0: GameStart
+An Spieler 1: GameStart
+An Spieler 2: GameStart
+An Spieler 3: GameStart
+Register playerId: 2 myName: Little Jimmy
+An Spieler 2: Failure message: Diese Aktion ist nicht mehr erlaubt, sobald das Spiel gestartet ist.
+TakeCard playerId: 0 kind: GREEN
+An Spieler 0: TookCard playerId: 0 kind: GREEN
+An Spieler 1: TookCard playerId: 0 kind: GREEN
+An Spieler 2: TookCard playerId: 0 kind: GREEN
+An Spieler 3: TookCard playerId: 0 kind: GREEN
+nextInt(1066) = 357
+An Spieler 0: NewOpenCard kind: YELLOW
+An Spieler 1: NewOpenCard kind: YELLOW
+An Spieler 2: NewOpenCard kind: YELLOW
+An Spieler 3: NewOpenCard kind: YELLOW
+Register playerId: 2 myName: Little Jimmy
+An Spieler 2: Failure message: Diese Aktion ist nicht mehr erlaubt, sobald das Spiel gestartet ist.
+TakeCard playerId: 0 kind: YELLOW
+An Spieler 0: TookCard playerId: 0 kind: YELLOW
+An Spieler 1: TookCard playerId: 0 kind: YELLOW
+An Spieler 2: TookCard playerId: 0 kind: YELLOW
+An Spieler 3: TookCard playerId: 0 kind: YELLOW
+nextInt(1065) = 698
+An Spieler 0: NewOpenCard kind: BLACK
+An Spieler 1: NewOpenCard kind: BLACK
+An Spieler 2: NewOpenCard kind: BLACK
+An Spieler 3: NewOpenCard kind: BLACK
+Register playerId: 2 myName: Little Jimmy
+An Spieler 2: Failure message: Diese Aktion ist nicht mehr erlaubt, sobald das Spiel gestartet ist.
+TakeSecretCard playerId: 1
+nextInt(1064) = 854
+An Spieler 1: NewCards kind: GREEN count: 1
+An Spieler 0: TookSecretCard playerId: 1
+An Spieler 1: TookSecretCard playerId: 1
+An Spieler 2: TookSecretCard playerId: 1
+An Spieler 3: TookSecretCard playerId: 1
+Register playerId: 2 myName: Little Jimmy
+An Spieler 2: Die message: Diese Aktion ist nicht mehr erlaubt, sobald das Spiel gestartet ist.
+TakeSecretCard playerId: 1
+nextInt(1063) = 786
+An Spieler 1: NewCards kind: RED count: 1
+An Spieler 0: TookSecretCard playerId: 1
+An Spieler 1: TookSecretCard playerId: 1
+An Spieler 3: TookSecretCard playerId: 1
+TakeCard playerId: 0 kind: BLACK
+An Spieler 0: TookCard playerId: 0 kind: BLACK
+An Spieler 1: TookCard playerId: 0 kind: BLACK
+An Spieler 3: TookCard playerId: 0 kind: BLACK
+nextInt(1062) = 950
+An Spieler 0: NewOpenCard kind: ALL
+An Spieler 1: NewOpenCard kind: ALL
+An Spieler 3: NewOpenCard kind: ALL
+TakeCard playerId: 0 kind: RED
+An Spieler 0: TookCard playerId: 0 kind: RED
+An Spieler 1: TookCard playerId: 0 kind: RED
+An Spieler 3: TookCard playerId: 0 kind: RED
+nextInt(1061) = 785
+An Spieler 0: NewOpenCard kind: RED
+An Spieler 1: NewOpenCard kind: RED
+An Spieler 3: NewOpenCard kind: RED
+TakeSecretCard playerId: 1
+nextInt(1060) = 1005
+An Spieler 1: NewCards kind: ALL count: 1
+An Spieler 0: TookSecretCard playerId: 1
+An Spieler 1: TookSecretCard playerId: 1
+An Spieler 3: TookSecretCard playerId: 1
+TakeSecretCard playerId: 1
+nextInt(1059) = 110
+An Spieler 1: NewCards kind: VIOLET count: 1
+An Spieler 0: TookSecretCard playerId: 1
+An Spieler 1: TookSecretCard playerId: 1
+An Spieler 3: TookSecretCard playerId: 1
+TakeCard playerId: 0 kind: ALL
+An Spieler 0: TookCard playerId: 0 kind: ALL
+An Spieler 1: TookCard playerId: 0 kind: ALL
+An Spieler 3: TookCard playerId: 0 kind: ALL
+nextInt(1058) = 357
+An Spieler 0: NewOpenCard kind: YELLOW
+An Spieler 1: NewOpenCard kind: YELLOW
+An Spieler 3: NewOpenCard kind: YELLOW
+TakeSecretCard playerId: 1
+nextInt(1057) = 820
+An Spieler 1: NewCards kind: RED count: 1
+An Spieler 0: TookSecretCard playerId: 1
+An Spieler 1: TookSecretCard playerId: 1
+An Spieler 3: TookSecretCard playerId: 1
+TakeSecretCard playerId: 1
+nextInt(1056) = 306
+An Spieler 1: NewCards kind: BLUE count: 1
+An Spieler 0: TookSecretCard playerId: 1
+An Spieler 1: TookSecretCard playerId: 1
+An Spieler 3: TookSecretCard playerId: 1
+TakeCard playerId: 0 kind: YELLOW
+An Spieler 0: TookCard playerId: 0 kind: YELLOW
+An Spieler 1: TookCard playerId: 0 kind: YELLOW
+An Spieler 3: TookCard playerId: 0 kind: YELLOW
+nextInt(1055) = 473
+An Spieler 0: NewOpenCard kind: ORANGE
+An Spieler 1: NewOpenCard kind: ORANGE
+An Spieler 3: NewOpenCard kind: ORANGE
+TakeCard playerId: 0 kind: ORANGE
+An Spieler 0: TookCard playerId: 0 kind: ORANGE
+An Spieler 1: TookCard playerId: 0 kind: ORANGE
+An Spieler 3: TookCard playerId: 0 kind: ORANGE
+nextInt(1054) = 486
+An Spieler 0: NewOpenCard kind: ORANGE
+An Spieler 1: NewOpenCard kind: ORANGE
+An Spieler 3: NewOpenCard kind: ORANGE
+TakeSecretCard playerId: 1
+nextInt(1053) = 428
+An Spieler 1: NewCards kind: YELLOW count: 1
+An Spieler 0: TookSecretCard playerId: 1
+An Spieler 1: TookSecretCard playerId: 1
+An Spieler 3: TookSecretCard playerId: 1
+TakeSecretCard playerId: 1
+nextInt(1052) = 809
+An Spieler 1: NewCards kind: RED count: 1
+An Spieler 0: TookSecretCard playerId: 1
+An Spieler 1: TookSecretCard playerId: 1
+An Spieler 3: TookSecretCard playerId: 1
+TakeCard playerId: 0 kind: ORANGE
+An Spieler 0: TookCard playerId: 0 kind: ORANGE
+An Spieler 1: TookCard playerId: 0 kind: ORANGE
+An Spieler 3: TookCard playerId: 0 kind: ORANGE
+nextInt(1051) = 105
+An Spieler 0: NewOpenCard kind: VIOLET
+An Spieler 1: NewOpenCard kind: VIOLET
+An Spieler 3: NewOpenCard kind: VIOLET
+TakeCard playerId: 0 kind: VIOLET
+An Spieler 0: TookCard playerId: 0 kind: VIOLET
+An Spieler 1: TookCard playerId: 0 kind: VIOLET
+An Spieler 3: TookCard playerId: 0 kind: VIOLET
+nextInt(1050) = 760
+An Spieler 0: NewOpenCard kind: RED
+An Spieler 1: NewOpenCard kind: RED
+An Spieler 3: NewOpenCard kind: RED
+TakeSecretCard playerId: 1
+nextInt(1049) = 496
+An Spieler 1: NewCards kind: ORANGE count: 1
+An Spieler 0: TookSecretCard playerId: 1
+An Spieler 1: TookSecretCard playerId: 1
+An Spieler 3: TookSecretCard playerId: 1
+TakeSecretCard playerId: 1
+nextInt(1048) = 922
+An Spieler 1: NewCards kind: GREEN count: 1
+An Spieler 0: TookSecretCard playerId: 1
+An Spieler 1: TookSecretCard playerId: 1
+An Spieler 3: TookSecretCard playerId: 1
+TakeCard playerId: 0 kind: RED
+An Spieler 0: TookCard playerId: 0 kind: RED
+An Spieler 1: TookCard playerId: 0 kind: RED
+An Spieler 3: TookCard playerId: 0 kind: RED
+nextInt(1047) = 451
+An Spieler 0: NewOpenCard kind: YELLOW
+An Spieler 1: NewOpenCard kind: YELLOW
+An Spieler 3: NewOpenCard kind: YELLOW
+TakeCard playerId: 0 kind: YELLOW
+An Spieler 0: TookCard playerId: 0 kind: YELLOW
+An Spieler 1: TookCard playerId: 0 kind: YELLOW
+An Spieler 3: TookCard playerId: 0 kind: YELLOW
+nextInt(1046) = 829
+An Spieler 0: NewOpenCard kind: GREEN
+An Spieler 1: NewOpenCard kind: GREEN
+An Spieler 3: NewOpenCard kind: GREEN
+TakeSecretCard playerId: 1
+nextInt(1045) = 32
+An Spieler 1: NewCards kind: VIOLET count: 1
+An Spieler 0: TookSecretCard playerId: 1
+An Spieler 1: TookSecretCard playerId: 1
+An Spieler 3: TookSecretCard playerId: 1
+TakeSecretCard playerId: 1
+nextInt(1044) = 921
+An Spieler 1: NewCards kind: GREEN count: 1
+An Spieler 0: TookSecretCard playerId: 1
+An Spieler 1: TookSecretCard playerId: 1
+An Spieler 3: TookSecretCard playerId: 1
+TakeCard playerId: 0 kind: GREEN
+An Spieler 0: TookCard playerId: 0 kind: GREEN
+An Spieler 1: TookCard playerId: 0 kind: GREEN
+An Spieler 3: TookCard playerId: 0 kind: GREEN
+nextInt(1043) = 629
+An Spieler 0: NewOpenCard kind: BLACK
+An Spieler 1: NewOpenCard kind: BLACK
+An Spieler 3: NewOpenCard kind: BLACK
+TakeCard playerId: 0 kind: BLACK
+An Spieler 0: TookCard playerId: 0 kind: BLACK
+An Spieler 1: TookCard playerId: 0 kind: BLACK
+An Spieler 3: TookCard playerId: 0 kind: BLACK
+nextInt(1042) = 25
+An Spieler 0: NewOpenCard kind: VIOLET
+An Spieler 1: NewOpenCard kind: VIOLET
+An Spieler 3: NewOpenCard kind: VIOLET
+TakeSecretCard playerId: 1
+nextInt(1041) = 897
+An Spieler 1: NewCards kind: GREEN count: 1
+An Spieler 0: TookSecretCard playerId: 1
+An Spieler 1: TookSecretCard playerId: 1
+An Spieler 3: TookSecretCard playerId: 1
+TakeSecretCard playerId: 1
+nextInt(1040) = 733
+An Spieler 1: NewCards kind: RED count: 1
+An Spieler 0: TookSecretCard playerId: 1
+An Spieler 1: TookSecretCard playerId: 1
+An Spieler 3: TookSecretCard playerId: 1
+TakeCard playerId: 0 kind: VIOLET
+An Spieler 0: TookCard playerId: 0 kind: VIOLET
+An Spieler 1: TookCard playerId: 0 kind: VIOLET
+An Spieler 3: TookCard playerId: 0 kind: VIOLET
+nextInt(1039) = 645
+An Spieler 0: NewOpenCard kind: BLACK
+An Spieler 1: NewOpenCard kind: BLACK
+An Spieler 3: NewOpenCard kind: BLACK
+TakeCard playerId: 0 kind: BLACK
+An Spieler 0: TookCard playerId: 0 kind: BLACK
+An Spieler 1: TookCard playerId: 0 kind: BLACK
+An Spieler 3: TookCard playerId: 0 kind: BLACK
+nextInt(1038) = 536
+An Spieler 0: NewOpenCard kind: ORANGE
+An Spieler 1: NewOpenCard kind: ORANGE
+An Spieler 3: NewOpenCard kind: ORANGE
+TakeSecretCard playerId: 1
+nextInt(1037) = 211
+An Spieler 1: NewCards kind: WHITE count: 1
+An Spieler 0: TookSecretCard playerId: 1
+An Spieler 1: TookSecretCard playerId: 1
+An Spieler 3: TookSecretCard playerId: 1
+TakeSecretCard playerId: 1
+nextInt(1036) = 971
+An Spieler 1: NewCards kind: ALL count: 1
+An Spieler 0: TookSecretCard playerId: 1
+An Spieler 1: TookSecretCard playerId: 1
+An Spieler 3: TookSecretCard playerId: 1
+TakeCard playerId: 0 kind: ORANGE
+An Spieler 0: TookCard playerId: 0 kind: ORANGE
+An Spieler 1: TookCard playerId: 0 kind: ORANGE
+An Spieler 3: TookCard playerId: 0 kind: ORANGE
+nextInt(1035) = 668
+An Spieler 0: NewOpenCard kind: BLACK
+An Spieler 1: NewOpenCard kind: BLACK
+An Spieler 3: NewOpenCard kind: BLACK
+TakeCard playerId: 0 kind: BLACK
+An Spieler 0: TookCard playerId: 0 kind: BLACK
+An Spieler 1: TookCard playerId: 0 kind: BLACK
+An Spieler 3: TookCard playerId: 0 kind: BLACK
+nextInt(1034) = 364
+An Spieler 0: NewOpenCard kind: YELLOW
+An Spieler 1: NewOpenCard kind: YELLOW
+An Spieler 3: NewOpenCard kind: YELLOW
+TakeSecretCard playerId: 1
+nextInt(1033) = 2
+An Spieler 1: NewCards kind: VIOLET count: 1
+An Spieler 0: TookSecretCard playerId: 1
+An Spieler 1: TookSecretCard playerId: 1
+An Spieler 3: TookSecretCard playerId: 1
+TakeSecretCard playerId: 1
+nextInt(1032) = 976
+An Spieler 1: NewCards kind: ALL count: 1
+An Spieler 0: TookSecretCard playerId: 1
+An Spieler 1: TookSecretCard playerId: 1
+An Spieler 3: TookSecretCard playerId: 1
+TakeCard playerId: 0 kind: YELLOW
+An Spieler 0: TookCard playerId: 0 kind: YELLOW
+An Spieler 1: TookCard playerId: 0 kind: YELLOW
+An Spieler 3: TookCard playerId: 0 kind: YELLOW
+nextInt(1031) = 896
+An Spieler 0: NewOpenCard kind: GREEN
+An Spieler 1: NewOpenCard kind: GREEN
+An Spieler 3: NewOpenCard kind: GREEN
+TakeCard playerId: 0 kind: GREEN
+An Spieler 0: TookCard playerId: 0 kind: GREEN
+An Spieler 1: TookCard playerId: 0 kind: GREEN
+An Spieler 3: TookCard playerId: 0 kind: GREEN
+nextInt(1030) = 555
+An Spieler 0: NewOpenCard kind: ORANGE
+An Spieler 1: NewOpenCard kind: ORANGE
+An Spieler 3: NewOpenCard kind: ORANGE
+TakeSecretCard playerId: 1
+nextInt(1029) = 313
+An Spieler 1: NewCards kind: BLUE count: 1
+An Spieler 0: TookSecretCard playerId: 1
+An Spieler 1: TookSecretCard playerId: 1
+An Spieler 3: TookSecretCard playerId: 1
+TakeCard playerId: 1 kind: ORANGE
+An Spieler 0: TookCard playerId: 1 kind: ORANGE
+An Spieler 1: TookCard playerId: 1 kind: ORANGE
+An Spieler 3: TookCard playerId: 1 kind: ORANGE
+nextInt(1028) = 351
+An Spieler 0: NewOpenCard kind: YELLOW
+An Spieler 1: NewOpenCard kind: YELLOW
+An Spieler 3: NewOpenCard kind: YELLOW
+TakeSecretCard playerId: 0
+nextInt(1027) = 998
+An Spieler 0: NewCards kind: ALL count: 1
+An Spieler 0: TookSecretCard playerId: 0
+An Spieler 1: TookSecretCard playerId: 0
+An Spieler 3: TookSecretCard playerId: 0
+TakeSecretCard playerId: 0
+nextInt(1026) = 3
+An Spieler 0: NewCards kind: VIOLET count: 1
+An Spieler 0: TookSecretCard playerId: 0
+An Spieler 1: TookSecretCard playerId: 0
+An Spieler 3: TookSecretCard playerId: 0
+BuildTrack playerId: 1 trackId: 14 kind: BLUE locomotives: 0
+An Spieler 0: TrackBuilt playerId: 1 trackId: 14 kind: BLUE locomotives: 0
+An Spieler 1: TrackBuilt playerId: 1 trackId: 14 kind: BLUE locomotives: 0
+An Spieler 3: TrackBuilt playerId: 1 trackId: 14 kind: BLUE locomotives: 0
+BuildTrack playerId: 0 trackId: 44 kind: ORANGE locomotives: 0
+An Spieler 0: TrackBuilt playerId: 0 trackId: 44 kind: ORANGE locomotives: 0
+An Spieler 1: TrackBuilt playerId: 0 trackId: 44 kind: ORANGE locomotives: 0
+An Spieler 3: TrackBuilt playerId: 0 trackId: 44 kind: ORANGE locomotives: 0
+BuildTrack playerId: 1 trackId: 40 kind: VIOLET locomotives: 0
+An Spieler 0: TrackBuilt playerId: 1 trackId: 40 kind: VIOLET locomotives: 0
+An Spieler 1: TrackBuilt playerId: 1 trackId: 40 kind: VIOLET locomotives: 0
+An Spieler 3: TrackBuilt playerId: 1 trackId: 40 kind: VIOLET locomotives: 0
+BuildTrack playerId: 0 trackId: 55 kind: WHITE locomotives: 0
+An Spieler 0: TrackBuilt playerId: 0 trackId: 55 kind: WHITE locomotives: 0
+An Spieler 1: TrackBuilt playerId: 0 trackId: 55 kind: WHITE locomotives: 0
+An Spieler 3: TrackBuilt playerId: 0 trackId: 55 kind: WHITE locomotives: 0
+BuildTrack playerId: 1 trackId: 42 kind: RED locomotives: 0
+An Spieler 0: TrackBuilt playerId: 1 trackId: 42 kind: RED locomotives: 0
+An Spieler 1: TrackBuilt playerId: 1 trackId: 42 kind: RED locomotives: 0
+An Spieler 3: TrackBuilt playerId: 1 trackId: 42 kind: RED locomotives: 0
+BuildTrack playerId: 0 trackId: 99 kind: VIOLET locomotives: 0
+An Spieler 0: TrackBuilt playerId: 0 trackId: 99 kind: VIOLET locomotives: 0
+An Spieler 1: TrackBuilt playerId: 0 trackId: 99 kind: VIOLET locomotives: 0
+An Spieler 3: TrackBuilt playerId: 0 trackId: 99 kind: VIOLET locomotives: 0
+TakeCard playerId: 1 kind: VIOLET
+An Spieler 0: TookCard playerId: 1 kind: VIOLET
+An Spieler 1: TookCard playerId: 1 kind: VIOLET
+An Spieler 3: TookCard playerId: 1 kind: VIOLET
+nextInt(1039) = 988
+An Spieler 0: NewOpenCard kind: ALL
+An Spieler 1: NewOpenCard kind: ALL
+An Spieler 3: NewOpenCard kind: ALL
+TakeCard playerId: 1 kind: YELLOW
+An Spieler 0: TookCard playerId: 1 kind: YELLOW
+An Spieler 1: TookCard playerId: 1 kind: YELLOW
+An Spieler 3: TookCard playerId: 1 kind: YELLOW
+nextInt(1038) = 819
+An Spieler 0: NewOpenCard kind: GREEN
+An Spieler 1: NewOpenCard kind: GREEN
+An Spieler 3: NewOpenCard kind: GREEN
+TakeSecretCard playerId: 0
+nextInt(1037) = 393
+An Spieler 0: NewCards kind: YELLOW count: 1
+An Spieler 0: TookSecretCard playerId: 0
+An Spieler 1: TookSecretCard playerId: 0
+An Spieler 3: TookSecretCard playerId: 0
+TakeSecretCard playerId: 0
+nextInt(1036) = 369
+An Spieler 0: NewCards kind: YELLOW count: 1
+An Spieler 0: TookSecretCard playerId: 0
+An Spieler 1: TookSecretCard playerId: 0
+An Spieler 3: TookSecretCard playerId: 0
+BuildTrack playerId: 1 trackId: 59 kind: VIOLET locomotives: 0
+An Spieler 0: TrackBuilt playerId: 1 trackId: 59 kind: VIOLET locomotives: 0
+An Spieler 1: TrackBuilt playerId: 1 trackId: 59 kind: VIOLET locomotives: 0
+An Spieler 3: TrackBuilt playerId: 1 trackId: 59 kind: VIOLET locomotives: 0
+TakeSecretCard playerId: 0
+nextInt(1039) = 433
+An Spieler 0: NewCards kind: YELLOW count: 1
+An Spieler 0: TookSecretCard playerId: 0
+An Spieler 1: TookSecretCard playerId: 0
+An Spieler 3: TookSecretCard playerId: 0
+TakeSecretCard playerId: 0
+nextInt(1038) = 445
+An Spieler 0: NewCards kind: YELLOW count: 1
+An Spieler 0: TookSecretCard playerId: 0
+An Spieler 1: TookSecretCard playerId: 0
+An Spieler 3: TookSecretCard playerId: 0
+TakeCard playerId: 1 kind: RED
+An Spieler 0: TookCard playerId: 1 kind: RED
+An Spieler 1: TookCard playerId: 1 kind: RED
+An Spieler 3: TookCard playerId: 1 kind: RED
+nextInt(1037) = 266
+An Spieler 0: NewOpenCard kind: BLUE
+An Spieler 1: NewOpenCard kind: BLUE
+An Spieler 3: NewOpenCard kind: BLUE
+TakeCard playerId: 1 kind: GREEN
+An Spieler 0: TookCard playerId: 1 kind: GREEN
+An Spieler 1: TookCard playerId: 1 kind: GREEN
+An Spieler 3: TookCard playerId: 1 kind: GREEN
+nextInt(1036) = 405
+An Spieler 0: NewOpenCard kind: YELLOW
+An Spieler 1: NewOpenCard kind: YELLOW
+An Spieler 3: NewOpenCard kind: YELLOW
+TakeSecretCard playerId: 0
+nextInt(1035) = 638
+An Spieler 0: NewCards kind: BLACK count: 1
+An Spieler 0: TookSecretCard playerId: 0
+An Spieler 1: TookSecretCard playerId: 0
+An Spieler 3: TookSecretCard playerId: 0
+TakeSecretCard playerId: 0
+nextInt(1034) = 505
+An Spieler 0: NewCards kind: ORANGE count: 1
+An Spieler 0: TookSecretCard playerId: 0
+An Spieler 1: TookSecretCard playerId: 0
+An Spieler 3: TookSecretCard playerId: 0
+BuildTrack playerId: 1 trackId: 66 kind: RED locomotives: 0
+An Spieler 0: TrackBuilt playerId: 1 trackId: 66 kind: RED locomotives: 0
+An Spieler 1: TrackBuilt playerId: 1 trackId: 66 kind: RED locomotives: 0
+An Spieler 3: TrackBuilt playerId: 1 trackId: 66 kind: RED locomotives: 0
+TakeSecretCard playerId: 0
+nextInt(1036) = 35
+An Spieler 0: NewCards kind: VIOLET count: 1
+An Spieler 0: TookSecretCard playerId: 0
+An Spieler 1: TookSecretCard playerId: 0
+An Spieler 3: TookSecretCard playerId: 0
+TakeSecretCard playerId: 0
+nextInt(1035) = 154
+An Spieler 0: NewCards kind: WHITE count: 1
+An Spieler 0: TookSecretCard playerId: 0
+An Spieler 1: TookSecretCard playerId: 0
+An Spieler 3: TookSecretCard playerId: 0
+TakeCard playerId: 1 kind: YELLOW
+An Spieler 0: TookCard playerId: 1 kind: YELLOW
+An Spieler 1: TookCard playerId: 1 kind: YELLOW
+An Spieler 3: TookCard playerId: 1 kind: YELLOW
+nextInt(1034) = 862
+An Spieler 0: NewOpenCard kind: GREEN
+An Spieler 1: NewOpenCard kind: GREEN
+An Spieler 3: NewOpenCard kind: GREEN
+TakeCard playerId: 1 kind: GREEN
+An Spieler 0: TookCard playerId: 1 kind: GREEN
+An Spieler 1: TookCard playerId: 1 kind: GREEN
+An Spieler 3: TookCard playerId: 1 kind: GREEN
+nextInt(1033) = 153
+An Spieler 0: NewOpenCard kind: WHITE
+An Spieler 1: NewOpenCard kind: WHITE
+An Spieler 3: NewOpenCard kind: WHITE
+TakeSecretCard playerId: 0
+nextInt(1032) = 871
+An Spieler 0: NewCards kind: GREEN count: 1
+An Spieler 0: TookSecretCard playerId: 0
+An Spieler 1: TookSecretCard playerId: 0
+An Spieler 3: TookSecretCard playerId: 0
+TakeSecretCard playerId: 0
+nextInt(1031) = 63
+An Spieler 0: NewCards kind: VIOLET count: 1
+An Spieler 0: TookSecretCard playerId: 0
+An Spieler 1: TookSecretCard playerId: 0
+An Spieler 3: TookSecretCard playerId: 0
+TakeCard playerId: 1 kind: WHITE
+An Spieler 0: TookCard playerId: 1 kind: WHITE
+An Spieler 1: TookCard playerId: 1 kind: WHITE
+An Spieler 3: TookCard playerId: 1 kind: WHITE
+nextInt(1030) = 280
+An Spieler 0: NewOpenCard kind: BLUE
+An Spieler 1: NewOpenCard kind: BLUE
+An Spieler 3: NewOpenCard kind: BLUE
+TakeCard playerId: 1 kind: BLUE
+An Spieler 0: TookCard playerId: 1 kind: BLUE
+An Spieler 1: TookCard playerId: 1 kind: BLUE
+An Spieler 3: TookCard playerId: 1 kind: BLUE
+nextInt(1029) = 852
+An Spieler 0: NewOpenCard kind: GREEN
+An Spieler 1: NewOpenCard kind: GREEN
+An Spieler 3: NewOpenCard kind: GREEN
+TakeSecretCard playerId: 0
+nextInt(1028) = 224
+An Spieler 0: NewCards kind: WHITE count: 1
+An Spieler 0: TookSecretCard playerId: 0
+An Spieler 1: TookSecretCard playerId: 0
+An Spieler 3: TookSecretCard playerId: 0
+TakeSecretCard playerId: 0
+nextInt(1027) = 381
+An Spieler 0: NewCards kind: YELLOW count: 1
+An Spieler 0: TookSecretCard playerId: 0
+An Spieler 1: TookSecretCard playerId: 0
+An Spieler 3: TookSecretCard playerId: 0
+TakeCard playerId: 1 kind: GREEN
+An Spieler 0: TookCard playerId: 1 kind: GREEN
+An Spieler 1: TookCard playerId: 1 kind: GREEN
+An Spieler 3: TookCard playerId: 1 kind: GREEN
+nextInt(1026) = 47
+An Spieler 0: NewOpenCard kind: VIOLET
+An Spieler 1: NewOpenCard kind: VIOLET
+An Spieler 3: NewOpenCard kind: VIOLET
+TakeCard playerId: 1 kind: VIOLET
+An Spieler 0: TookCard playerId: 1 kind: VIOLET
+An Spieler 1: TookCard playerId: 1 kind: VIOLET
+An Spieler 3: TookCard playerId: 1 kind: VIOLET
+nextInt(1025) = 831
+An Spieler 0: NewOpenCard kind: GREEN
+An Spieler 1: NewOpenCard kind: GREEN
+An Spieler 3: NewOpenCard kind: GREEN
+TakeSecretCard playerId: 0
+nextInt(1024) = 16
+An Spieler 0: NewCards kind: VIOLET count: 1
+An Spieler 0: TookSecretCard playerId: 0
+An Spieler 1: TookSecretCard playerId: 0
+An Spieler 3: TookSecretCard playerId: 0
+TakeSecretCard playerId: 0
+nextInt(1023) = 92
+An Spieler 0: NewCards kind: VIOLET count: 1
+An Spieler 0: TookSecretCard playerId: 0
+An Spieler 1: TookSecretCard playerId: 0
+An Spieler 3: TookSecretCard playerId: 0
+TakeCard playerId: 1 kind: GREEN
+An Spieler 0: TookCard playerId: 1 kind: GREEN
+An Spieler 1: TookCard playerId: 1 kind: GREEN
+An Spieler 3: TookCard playerId: 1 kind: GREEN
+nextInt(1022) = 968
+An Spieler 0: NewOpenCard kind: ALL
+An Spieler 1: NewOpenCard kind: ALL
+An Spieler 3: NewOpenCard kind: ALL
+TakeCard playerId: 1 kind: BLUE
+An Spieler 0: TookCard playerId: 1 kind: BLUE
+An Spieler 1: TookCard playerId: 1 kind: BLUE
+An Spieler 3: TookCard playerId: 1 kind: BLUE
+nextInt(1021) = 48
+An Spieler 0: NewOpenCard kind: VIOLET
+An Spieler 1: NewOpenCard kind: VIOLET
+An Spieler 3: NewOpenCard kind: VIOLET
+TakeSecretCard playerId: 0
+nextInt(1020) = 910
+An Spieler 0: NewCards kind: ALL count: 1
+An Spieler 0: TookSecretCard playerId: 0
+An Spieler 1: TookSecretCard playerId: 0
+An Spieler 3: TookSecretCard playerId: 0
+TakeSecretCard playerId: 0
+nextInt(1019) = 575
+An Spieler 0: NewCards kind: BLACK count: 1
+An Spieler 0: TookSecretCard playerId: 0
+An Spieler 1: TookSecretCard playerId: 0
+An Spieler 3: TookSecretCard playerId: 0
+TakeCard playerId: 1 kind: ALL
+An Spieler 0: TookCard playerId: 1 kind: ALL
+An Spieler 1: TookCard playerId: 1 kind: ALL
+An Spieler 3: TookCard playerId: 1 kind: ALL
+nextInt(1018) = 352
+An Spieler 0: NewOpenCard kind: YELLOW
+An Spieler 1: NewOpenCard kind: YELLOW
+An Spieler 3: NewOpenCard kind: YELLOW
+TakeSecretCard playerId: 0
+nextInt(1017) = 434
+An Spieler 0: NewCards kind: YELLOW count: 1
+An Spieler 0: TookSecretCard playerId: 0
+An Spieler 1: TookSecretCard playerId: 0
+An Spieler 3: TookSecretCard playerId: 0
+TakeSecretCard playerId: 0
+nextInt(1016) = 369
+An Spieler 0: NewCards kind: YELLOW count: 1
+An Spieler 0: TookSecretCard playerId: 0
+An Spieler 1: TookSecretCard playerId: 0
+An Spieler 3: TookSecretCard playerId: 0
+TakeCard playerId: 1 kind: YELLOW
+An Spieler 0: TookCard playerId: 1 kind: YELLOW
+An Spieler 1: TookCard playerId: 1 kind: YELLOW
+An Spieler 3: TookCard playerId: 1 kind: YELLOW
+nextInt(1015) = 723
+An Spieler 0: NewOpenCard kind: RED
+An Spieler 1: NewOpenCard kind: RED
+An Spieler 3: NewOpenCard kind: RED
+TakeCard playerId: 1 kind: RED
+An Spieler 0: TookCard playerId: 1 kind: RED
+An Spieler 1: TookCard playerId: 1 kind: RED
+An Spieler 3: TookCard playerId: 1 kind: RED
+nextInt(1014) = 190
+An Spieler 0: NewOpenCard kind: WHITE
+An Spieler 1: NewOpenCard kind: WHITE
+An Spieler 3: NewOpenCard kind: WHITE
+TakeSecretCard playerId: 0
+nextInt(1013) = 57
+An Spieler 0: NewCards kind: VIOLET count: 1
+An Spieler 0: TookSecretCard playerId: 0
+An Spieler 1: TookSecretCard playerId: 0
+An Spieler 3: TookSecretCard playerId: 0
+TakeSecretCard playerId: 0
+nextInt(1012) = 709
+An Spieler 0: NewCards kind: RED count: 1
+An Spieler 0: TookSecretCard playerId: 0
+An Spieler 1: TookSecretCard playerId: 0
+An Spieler 3: TookSecretCard playerId: 0
+TakeCard playerId: 1 kind: WHITE
+An Spieler 0: TookCard playerId: 1 kind: WHITE
+An Spieler 1: TookCard playerId: 1 kind: WHITE
+An Spieler 3: TookCard playerId: 1 kind: WHITE
+nextInt(1011) = 953
+An Spieler 0: NewOpenCard kind: ALL
+An Spieler 1: NewOpenCard kind: ALL
+An Spieler 3: NewOpenCard kind: ALL
+TakeCard playerId: 1 kind: VIOLET
+An Spieler 0: TookCard playerId: 1 kind: VIOLET
+An Spieler 1: TookCard playerId: 1 kind: VIOLET
+An Spieler 3: TookCard playerId: 1 kind: VIOLET
+nextInt(1010) = 964
+An Spieler 0: NewOpenCard kind: ALL
+An Spieler 1: NewOpenCard kind: ALL
+An Spieler 3: NewOpenCard kind: ALL
+nextInt(1014) = 265
+An Spieler 0: NewOpenCard kind: BLUE
+An Spieler 1: NewOpenCard kind: BLUE
+An Spieler 3: NewOpenCard kind: BLUE
+nextInt(1013) = 833
+An Spieler 0: NewOpenCard kind: GREEN
+An Spieler 1: NewOpenCard kind: GREEN
+An Spieler 3: NewOpenCard kind: GREEN
+nextInt(1012) = 959
+An Spieler 0: NewOpenCard kind: ALL
+An Spieler 1: NewOpenCard kind: ALL
+An Spieler 3: NewOpenCard kind: ALL
+nextInt(1011) = 655
+An Spieler 0: NewOpenCard kind: BLACK
+An Spieler 1: NewOpenCard kind: BLACK
+An Spieler 3: NewOpenCard kind: BLACK
+nextInt(1010) = 516
+An Spieler 0: NewOpenCard kind: ORANGE
+An Spieler 1: NewOpenCard kind: ORANGE
+An Spieler 3: NewOpenCard kind: ORANGE
+TakeSecretCard playerId: 0
+nextInt(1009) = 905
+An Spieler 0: NewCards kind: ALL count: 1
+An Spieler 0: TookSecretCard playerId: 0
+An Spieler 1: TookSecretCard playerId: 0
+An Spieler 3: TookSecretCard playerId: 0
+TakeSecretCard playerId: 0
+nextInt(1008) = 228
+An Spieler 0: NewCards kind: BLUE count: 1
+An Spieler 0: TookSecretCard playerId: 0
+An Spieler 1: TookSecretCard playerId: 0
+An Spieler 3: TookSecretCard playerId: 0
+TakeCard playerId: 1 kind: BLACK
+An Spieler 0: TookCard playerId: 1 kind: BLACK
+An Spieler 1: TookCard playerId: 1 kind: BLACK
+An Spieler 3: TookCard playerId: 1 kind: BLACK
+nextInt(1007) = 283
+An Spieler 0: NewOpenCard kind: BLUE
+An Spieler 1: NewOpenCard kind: BLUE
+An Spieler 3: NewOpenCard kind: BLUE
+TakeCard playerId: 1 kind: BLUE
+An Spieler 0: TookCard playerId: 1 kind: BLUE
+An Spieler 1: TookCard playerId: 1 kind: BLUE
+An Spieler 3: TookCard playerId: 1 kind: BLUE
+nextInt(1006) = 637
+An Spieler 0: NewOpenCard kind: BLACK
+An Spieler 1: NewOpenCard kind: BLACK
+An Spieler 3: NewOpenCard kind: BLACK
+TakeSecretCard playerId: 0
+nextInt(1005) = 70
+An Spieler 0: NewCards kind: VIOLET count: 1
+An Spieler 0: TookSecretCard playerId: 0
+An Spieler 1: TookSecretCard playerId: 0
+An Spieler 3: TookSecretCard playerId: 0
+TakeSecretCard playerId: 0
+nextInt(1004) = 661
+An Spieler 0: NewCards kind: BLACK count: 1
+An Spieler 0: TookSecretCard playerId: 0
+An Spieler 1: TookSecretCard playerId: 0
+An Spieler 3: TookSecretCard playerId: 0
+TakeCard playerId: 1 kind: BLACK
+An Spieler 0: TookCard playerId: 1 kind: BLACK
+An Spieler 1: TookCard playerId: 1 kind: BLACK
+An Spieler 3: TookCard playerId: 1 kind: BLACK
+nextInt(1003) = 690
+An Spieler 0: NewOpenCard kind: RED
+An Spieler 1: NewOpenCard kind: RED
+An Spieler 3: NewOpenCard kind: RED
+TakeCard playerId: 1 kind: RED
+An Spieler 0: TookCard playerId: 1 kind: RED
+An Spieler 1: TookCard playerId: 1 kind: RED
+An Spieler 3: TookCard playerId: 1 kind: RED
+nextInt(1002) = 700
+An Spieler 0: NewOpenCard kind: RED
+An Spieler 1: NewOpenCard kind: RED
+An Spieler 3: NewOpenCard kind: RED
+TakeSecretCard playerId: 0
+nextInt(1001) = 596
+An Spieler 0: NewCards kind: BLACK count: 1
+An Spieler 0: TookSecretCard playerId: 0
+An Spieler 1: TookSecretCard playerId: 0
+An Spieler 3: TookSecretCard playerId: 0
+TakeSecretCard playerId: 0
+nextInt(1000) = 648
+An Spieler 0: NewCards kind: BLACK count: 1
+An Spieler 0: TookSecretCard playerId: 0
+An Spieler 1: TookSecretCard playerId: 0
+An Spieler 3: TookSecretCard playerId: 0
+TakeCard playerId: 1 kind: RED
+An Spieler 0: TookCard playerId: 1 kind: RED
+An Spieler 1: TookCard playerId: 1 kind: RED
+An Spieler 3: TookCard playerId: 1 kind: RED
+nextInt(999) = 359
+An Spieler 0: NewOpenCard kind: YELLOW
+An Spieler 1: NewOpenCard kind: YELLOW
+An Spieler 3: NewOpenCard kind: YELLOW
+TakeCard playerId: 1 kind: YELLOW
+An Spieler 0: TookCard playerId: 1 kind: YELLOW
+An Spieler 1: TookCard playerId: 1 kind: YELLOW
+An Spieler 3: TookCard playerId: 1 kind: YELLOW
+nextInt(998) = 655
+An Spieler 0: NewOpenCard kind: BLACK
+An Spieler 1: NewOpenCard kind: BLACK
+An Spieler 3: NewOpenCard kind: BLACK
+TakeSecretCard playerId: 0
+nextInt(997) = 878
+An Spieler 0: NewCards kind: GREEN count: 1
+An Spieler 0: TookSecretCard playerId: 0
+An Spieler 1: TookSecretCard playerId: 0
+An Spieler 3: TookSecretCard playerId: 0
+TakeSecretCard playerId: 0
+nextInt(996) = 121
+An Spieler 0: NewCards kind: WHITE count: 1
+An Spieler 0: TookSecretCard playerId: 0
+An Spieler 1: TookSecretCard playerId: 0
+An Spieler 3: TookSecretCard playerId: 0
+TakeCard playerId: 1 kind: BLACK
+An Spieler 0: TookCard playerId: 1 kind: BLACK
+An Spieler 1: TookCard playerId: 1 kind: BLACK
+An Spieler 3: TookCard playerId: 1 kind: BLACK
+nextInt(995) = 556
+An Spieler 0: NewOpenCard kind: ORANGE
+An Spieler 1: NewOpenCard kind: ORANGE
+An Spieler 3: NewOpenCard kind: ORANGE
+TakeCard playerId: 1 kind: ORANGE
+An Spieler 0: TookCard playerId: 1 kind: ORANGE
+An Spieler 1: TookCard playerId: 1 kind: ORANGE
+An Spieler 3: TookCard playerId: 1 kind: ORANGE
+nextInt(994) = 329
+An Spieler 0: NewOpenCard kind: BLUE
+An Spieler 1: NewOpenCard kind: BLUE
+An Spieler 3: NewOpenCard kind: BLUE
+TakeSecretCard playerId: 0
+nextInt(993) = 437
+An Spieler 0: NewCards kind: YELLOW count: 1
+An Spieler 0: TookSecretCard playerId: 0
+An Spieler 1: TookSecretCard playerId: 0
+An Spieler 3: TookSecretCard playerId: 0
+TakeSecretCard playerId: 0
+nextInt(992) = 557
+An Spieler 0: NewCards kind: BLACK count: 1
+An Spieler 0: TookSecretCard playerId: 0
+An Spieler 1: TookSecretCard playerId: 0
+An Spieler 3: TookSecretCard playerId: 0
+TakeCard playerId: 1 kind: BLUE
+An Spieler 0: TookCard playerId: 1 kind: BLUE
+An Spieler 1: TookCard playerId: 1 kind: BLUE
+An Spieler 3: TookCard playerId: 1 kind: BLUE
+nextInt(991) = 823
+An Spieler 0: NewOpenCard kind: GREEN
+An Spieler 1: NewOpenCard kind: GREEN
+An Spieler 3: NewOpenCard kind: GREEN
+TakeCard playerId: 1 kind: GREEN
+An Spieler 0: TookCard playerId: 1 kind: GREEN
+An Spieler 1: TookCard playerId: 1 kind: GREEN
+An Spieler 3: TookCard playerId: 1 kind: GREEN
+nextInt(990) = 698
+An Spieler 0: NewOpenCard kind: RED
+An Spieler 1: NewOpenCard kind: RED
+An Spieler 3: NewOpenCard kind: RED
+TakeSecretCard playerId: 0
+nextInt(989) = 160
+An Spieler 0: NewCards kind: WHITE count: 1
+An Spieler 0: TookSecretCard playerId: 0
+An Spieler 1: TookSecretCard playerId: 0
+An Spieler 3: TookSecretCard playerId: 0
+TakeSecretCard playerId: 0
+nextInt(988) = 935
+An Spieler 0: NewCards kind: ALL count: 1
+An Spieler 0: TookSecretCard playerId: 0
+An Spieler 1: TookSecretCard playerId: 0
+An Spieler 3: TookSecretCard playerId: 0
+TakeCard playerId: 1 kind: RED
+An Spieler 0: TookCard playerId: 1 kind: RED
+An Spieler 1: TookCard playerId: 1 kind: RED
+An Spieler 3: TookCard playerId: 1 kind: RED
+nextInt(987) = 839
+An Spieler 0: NewOpenCard kind: GREEN
+An Spieler 1: NewOpenCard kind: GREEN
+An Spieler 3: NewOpenCard kind: GREEN
+TakeCard playerId: 1 kind: GREEN
+An Spieler 0: TookCard playerId: 1 kind: GREEN
+An Spieler 1: TookCard playerId: 1 kind: GREEN
+An Spieler 3: TookCard playerId: 1 kind: GREEN
+nextInt(986) = 510
+An Spieler 0: NewOpenCard kind: ORANGE
+An Spieler 1: NewOpenCard kind: ORANGE
+An Spieler 3: NewOpenCard kind: ORANGE
+TakeSecretCard playerId: 0
+nextInt(985) = 54
+An Spieler 0: NewCards kind: VIOLET count: 1
+An Spieler 0: TookSecretCard playerId: 0
+An Spieler 1: TookSecretCard playerId: 0
+An Spieler 3: TookSecretCard playerId: 0
+TakeSecretCard playerId: 0
+nextInt(984) = 740
+An Spieler 0: NewCards kind: RED count: 1
+An Spieler 0: TookSecretCard playerId: 0
+An Spieler 1: TookSecretCard playerId: 0
+An Spieler 3: TookSecretCard playerId: 0
+TakeCard playerId: 1 kind: ORANGE
+An Spieler 0: TookCard playerId: 1 kind: ORANGE
+An Spieler 1: TookCard playerId: 1 kind: ORANGE
+An Spieler 3: TookCard playerId: 1 kind: ORANGE
+nextInt(983) = 199
+An Spieler 0: NewOpenCard kind: WHITE
+An Spieler 1: NewOpenCard kind: WHITE
+An Spieler 3: NewOpenCard kind: WHITE
+TakeCard playerId: 1 kind: WHITE
+An Spieler 0: TookCard playerId: 1 kind: WHITE
+An Spieler 1: TookCard playerId: 1 kind: WHITE
+An Spieler 3: TookCard playerId: 1 kind: WHITE
+nextInt(982) = 800
+An Spieler 0: NewOpenCard kind: GREEN
+An Spieler 1: NewOpenCard kind: GREEN
+An Spieler 3: NewOpenCard kind: GREEN
+TakeSecretCard playerId: 0
+nextInt(981) = 461
+An Spieler 0: NewCards kind: ORANGE count: 1
+An Spieler 0: TookSecretCard playerId: 0
+An Spieler 1: TookSecretCard playerId: 0
+An Spieler 3: TookSecretCard playerId: 0
+TakeSecretCard playerId: 0
+nextInt(980) = 774
+An Spieler 0: NewCards kind: GREEN count: 1
+An Spieler 0: TookSecretCard playerId: 0
+An Spieler 1: TookSecretCard playerId: 0
+An Spieler 3: TookSecretCard playerId: 0
+TakeCard playerId: 1 kind: GREEN
+An Spieler 0: TookCard playerId: 1 kind: GREEN
+An Spieler 1: TookCard playerId: 1 kind: GREEN
+An Spieler 3: TookCard playerId: 1 kind: GREEN
+nextInt(979) = 747
+An Spieler 0: NewOpenCard kind: RED
+An Spieler 1: NewOpenCard kind: RED
+An Spieler 3: NewOpenCard kind: RED
+TakeCard playerId: 1 kind: RED
+An Spieler 0: TookCard playerId: 1 kind: RED
+An Spieler 1: TookCard playerId: 1 kind: RED
+An Spieler 3: TookCard playerId: 1 kind: RED
+nextInt(978) = 151
+An Spieler 0: NewOpenCard kind: WHITE
+An Spieler 1: NewOpenCard kind: WHITE
+An Spieler 3: NewOpenCard kind: WHITE
+TakeSecretCard playerId: 0
+nextInt(977) = 255
+An Spieler 0: NewCards kind: BLUE count: 1
+An Spieler 0: TookSecretCard playerId: 0
+An Spieler 1: TookSecretCard playerId: 0
+An Spieler 3: TookSecretCard playerId: 0
+TakeSecretCard playerId: 0
+nextInt(976) = 176
+An Spieler 0: NewCards kind: WHITE count: 1
+An Spieler 0: TookSecretCard playerId: 0
+An Spieler 1: TookSecretCard playerId: 0
+An Spieler 3: TookSecretCard playerId: 0
+TakeCard playerId: 1 kind: WHITE
+An Spieler 0: TookCard playerId: 1 kind: WHITE
+An Spieler 1: TookCard playerId: 1 kind: WHITE
+An Spieler 3: TookCard playerId: 1 kind: WHITE
+nextInt(975) = 721
+An Spieler 0: NewOpenCard kind: RED
+An Spieler 1: NewOpenCard kind: RED
+An Spieler 3: NewOpenCard kind: RED
+TakeCard playerId: 1 kind: RED
+An Spieler 0: TookCard playerId: 1 kind: RED
+An Spieler 1: TookCard playerId: 1 kind: RED
+An Spieler 3: TookCard playerId: 1 kind: RED
+nextInt(974) = 225
+An Spieler 0: NewOpenCard kind: BLUE
+An Spieler 1: NewOpenCard kind: BLUE
+An Spieler 3: NewOpenCard kind: BLUE
+TakeSecretCard playerId: 0
+nextInt(973) = 336
+An Spieler 0: NewCards kind: YELLOW count: 1
+An Spieler 0: TookSecretCard playerId: 0
+An Spieler 1: TookSecretCard playerId: 0
+An Spieler 3: TookSecretCard playerId: 0
+TakeSecretCard playerId: 0
+nextInt(972) = 869
+An Spieler 0: NewCards kind: ALL count: 1
+An Spieler 0: TookSecretCard playerId: 0
+An Spieler 1: TookSecretCard playerId: 0
+An Spieler 3: TookSecretCard playerId: 0
+TakeCard playerId: 1 kind: BLUE
+An Spieler 0: TookCard playerId: 1 kind: BLUE
+An Spieler 1: TookCard playerId: 1 kind: BLUE
+An Spieler 3: TookCard playerId: 1 kind: BLUE
+nextInt(971) = 8
+An Spieler 0: NewOpenCard kind: VIOLET
+An Spieler 1: NewOpenCard kind: VIOLET
+An Spieler 3: NewOpenCard kind: VIOLET
+TakeCard playerId: 1 kind: VIOLET
+An Spieler 0: TookCard playerId: 1 kind: VIOLET
+An Spieler 1: TookCard playerId: 1 kind: VIOLET
+An Spieler 3: TookCard playerId: 1 kind: VIOLET
+nextInt(970) = 452
+An Spieler 0: NewOpenCard kind: ORANGE
+An Spieler 1: NewOpenCard kind: ORANGE
+An Spieler 3: NewOpenCard kind: ORANGE
+TakeSecretCard playerId: 0
+nextInt(969) = 39
+An Spieler 0: NewCards kind: VIOLET count: 1
+An Spieler 0: TookSecretCard playerId: 0
+An Spieler 1: TookSecretCard playerId: 0
+An Spieler 3: TookSecretCard playerId: 0
+TakeSecretCard playerId: 0
+nextInt(968) = 171
+An Spieler 0: NewCards kind: WHITE count: 1
+An Spieler 0: TookSecretCard playerId: 0
+An Spieler 1: TookSecretCard playerId: 0
+An Spieler 3: TookSecretCard playerId: 0
+TakeCard playerId: 1 kind: ORANGE
+An Spieler 0: TookCard playerId: 1 kind: ORANGE
+An Spieler 1: TookCard playerId: 1 kind: ORANGE
+An Spieler 3: TookCard playerId: 1 kind: ORANGE
+nextInt(967) = 619
+An Spieler 0: NewOpenCard kind: BLACK
+An Spieler 1: NewOpenCard kind: BLACK
+An Spieler 3: NewOpenCard kind: BLACK
+TakeCard playerId: 1 kind: BLACK
+An Spieler 0: TookCard playerId: 1 kind: BLACK
+An Spieler 1: TookCard playerId: 1 kind: BLACK
+An Spieler 3: TookCard playerId: 1 kind: BLACK
+nextInt(966) = 70
+An Spieler 0: NewOpenCard kind: VIOLET
+An Spieler 1: NewOpenCard kind: VIOLET
+An Spieler 3: NewOpenCard kind: VIOLET
+TakeSecretCard playerId: 0
+nextInt(965) = 90
+An Spieler 0: NewCards kind: VIOLET count: 1
+An Spieler 0: TookSecretCard playerId: 0
+An Spieler 1: TookSecretCard playerId: 0
+An Spieler 3: TookSecretCard playerId: 0
+TakeSecretCard playerId: 0
+nextInt(964) = 924
+An Spieler 0: NewCards kind: ALL count: 1
+An Spieler 0: TookSecretCard playerId: 0
+An Spieler 1: TookSecretCard playerId: 0
+An Spieler 3: TookSecretCard playerId: 0
+BuildTrack playerId: 1 trackId: 71 kind: BLACK locomotives: 0
+An Spieler 0: TrackBuilt playerId: 1 trackId: 71 kind: BLACK locomotives: 0
+An Spieler 1: TrackBuilt playerId: 1 trackId: 71 kind: BLACK locomotives: 0
+An Spieler 3: TrackBuilt playerId: 1 trackId: 71 kind: BLACK locomotives: 0
+An Spieler 0: FinalMissions playerId: 0 missionSuccess:  missionFail: Mission start: 35 destination: 37 points: 5, Mission start: 20 destination: 26 points: 20, Mission start: 12 destination: 30 points: 6, 
+An Spieler 1: FinalMissions playerId: 0 missionSuccess:  missionFail: Mission start: 35 destination: 37 points: 5, Mission start: 20 destination: 26 points: 20, Mission start: 12 destination: 30 points: 6, 
+An Spieler 3: FinalMissions playerId: 0 missionSuccess:  missionFail: Mission start: 35 destination: 37 points: 5, Mission start: 20 destination: 26 points: 20, Mission start: 12 destination: 30 points: 6, 
+An Spieler 0: FinalMissions playerId: 1 missionSuccess:  missionFail: Mission start: 33 destination: 44 points: 8, Mission start: 28 destination: 27 points: 6, Mission start: 12 destination: 32 points: 6, 
+An Spieler 1: FinalMissions playerId: 1 missionSuccess:  missionFail: Mission start: 33 destination: 44 points: 8, Mission start: 28 destination: 27 points: 6, Mission start: 12 destination: 32 points: 6, 
+An Spieler 3: FinalMissions playerId: 1 missionSuccess:  missionFail: Mission start: 33 destination: 44 points: 8, Mission start: 28 destination: 27 points: 6, Mission start: 12 destination: 32 points: 6, 
+An Spieler 0: LongestTrack playerId: 1 length: 13
+An Spieler 1: LongestTrack playerId: 1 length: 13
+An Spieler 3: LongestTrack playerId: 1 length: 13
+An Spieler 0: FinalPoints playerId: 0 points: -22
+An Spieler 1: FinalPoints playerId: 0 points: -22
+An Spieler 3: FinalPoints playerId: 0 points: -22
+An Spieler 0: FinalPoints playerId: 1 points: 16
+An Spieler 1: FinalPoints playerId: 1 points: 16
+An Spieler 3: FinalPoints playerId: 1 points: 16
+An Spieler 0: Winner playerId: 1
+An Spieler 1: Winner playerId: 1
+An Spieler 3: Winner playerId: 1
+Leave playerId: 3
+An Spieler 3: PlayerLeft playerId: 3
+Leave playerId: 1
+An Spieler 0: PlayerLeft playerId: 1
+An Spieler 1: PlayerLeft playerId: 1
+Leave playerId: 0
+An Spieler 0: PlayerLeft playerId: 0

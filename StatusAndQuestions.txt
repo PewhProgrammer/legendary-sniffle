@@ -1,0 +1,15 @@
+Running test test-a/UnfullfilledMissionsTest: FAILURE
+
+Running test test-a/BuildTracksTest: FAILURE
+Running test test-b/IllegalALLBuildTest: FAILURE
+Running test test-b/IllegalStatesTest: FAILURE
+Running test test-b/IllegalStates2Test: FAILURE
+
+
+
+GameBoard buildTrack() getPid() < 0
+Track assert cityA != cityB
+
+ServerGameController protected void payTunnel
+in visit(PayTunnel reinziehen)
+nach payTunnel refreshen?

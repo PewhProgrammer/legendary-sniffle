@@ -1,0 +1,89 @@
+Spieler: 1
+Datum: 30.09.2015 11:10:29
+Map-File: nine_single.map
+Seed: 42
+
+NewObserver playerId: 0
+An Spieler 0: GameState players: 1
+Register playerId: 0 myName: TAS0
+An Spieler 0: NewPlayer playerId: 0 name: TAS0
+An Spieler 0: NewCards kind: ALL count: 500
+An Spieler 0: NewCards kind: BLACK count: 500
+An Spieler 0: NewCards kind: WHITE count: 0
+An Spieler 0: NewCards kind: VIOLET count: 0
+An Spieler 0: NewCards kind: GREEN count: 0
+An Spieler 0: NewCards kind: BLUE count: 0
+An Spieler 0: NewCards kind: YELLOW count: 0
+An Spieler 0: NewCards kind: RED count: 0
+An Spieler 0: NewCards kind: ORANGE count: 0
+An Spieler 0: MaxTrackLength maxTracks: 5
+An Spieler 0: NewCity cityId: 0 name:  x: 1 y: 1
+An Spieler 0: NewCity cityId: 1 name:  x: 2 y: 1
+An Spieler 0: NewCity cityId: 2 name:  x: 1 y: 2
+An Spieler 0: NewCity cityId: 3 name:  x: 2 y: 2
+An Spieler 0: NewCity cityId: 4 name:  x: 1 y: 3
+An Spieler 0: NewCity cityId: 5 name:  x: 2 y: 3
+An Spieler 0: NewCity cityId: 6 name:  x: 1 y: 4
+An Spieler 0: NewCity cityId: 7 name:  x: 2 y: 4
+An Spieler 0: NewCity cityId: 8 name:  x: 1 y: 0
+An Spieler 0: NewCity cityId: 9 name:  x: 2 y: 0
+An Spieler 0: NewCity cityId: 10 name:  x: 1 y: 5
+An Spieler 0: NewCity cityId: 11 name:  x: 1 y: 6
+An Spieler 0: NewCity cityId: 12 name:  x: 1 y: 7
+An Spieler 0: NewCity cityId: 13 name:  x: 1 y: 8
+An Spieler 0: NewCity cityId: 14 name:  x: 2 y: 5
+An Spieler 0: NewCity cityId: 15 name:  x: 2 y: 6
+An Spieler 0: NewCity cityId: 16 name:  x: 2 y: 7
+An Spieler 0: NewCity cityId: 17 name:  x: 2 y: 8
+An Spieler 0: NewTrack trackId: 0 city1: 8 city2: 9 length: 1 kind: ALL tunnel: false
+An Spieler 0: NewTrack trackId: 1 city1: 0 city2: 1 length: 1 kind: ALL tunnel: false
+An Spieler 0: NewTrack trackId: 2 city1: 2 city2: 3 length: 1 kind: ALL tunnel: false
+An Spieler 0: NewTrack trackId: 3 city1: 4 city2: 5 length: 1 kind: ALL tunnel: false
+An Spieler 0: NewTrack trackId: 4 city1: 6 city2: 7 length: 1 kind: ALL tunnel: false
+An Spieler 0: NewTrack trackId: 5 city1: 10 city2: 14 length: 1 kind: ALL tunnel: false
+An Spieler 0: NewTrack trackId: 6 city1: 11 city2: 15 length: 1 kind: ALL tunnel: false
+An Spieler 0: NewTrack trackId: 7 city1: 12 city2: 16 length: 1 kind: ALL tunnel: false
+An Spieler 0: NewTrack trackId: 8 city1: 13 city2: 17 length: 1 kind: ALL tunnel: false
+nextInt(999) = 16
+An Spieler 0: NewOpenCard kind: BLACK
+nextInt(998) = 888
+An Spieler 0: NewOpenCard kind: ALL
+nextInt(997) = 106
+An Spieler 0: NewOpenCard kind: BLACK
+nextInt(996) = 607
+An Spieler 0: NewOpenCard kind: ALL
+nextInt(995) = 853
+An Spieler 0: NewOpenCard kind: ALL
+nextInt(999) = 150
+An Spieler 0: NewOpenCard kind: BLACK
+nextInt(998) = 121
+An Spieler 0: NewOpenCard kind: BLACK
+nextInt(997) = 206
+An Spieler 0: NewOpenCard kind: BLACK
+nextInt(996) = 733
+An Spieler 0: NewOpenCard kind: ALL
+nextInt(995) = 236
+An Spieler 0: NewOpenCard kind: BLACK
+nextInt(994) = 508
+nextInt(993) = 375
+nextInt(992) = 797
+nextInt(991) = 854
+An Spieler 0: NewCards kind: BLACK count: 1
+An Spieler 0: NewCards kind: ALL count: 3
+nextInt(8) = 0
+nextInt(7) = 3
+nextInt(6) = 4
+An Spieler 0: NewMissions missions: Mission start: 8 destination: 9 points: 5, Mission start: 6 destination: 7 points: 5, Mission start: 11 destination: 15 points: 5, 
+ReturnMissions playerId: 0 missions: 
+An Spieler 0: TookMissions playerId: 0 count: 3
+An Spieler 0: GameStart
+BuildTrack playerId: 0 trackId: 0 kind: ALL locomotives: 0
+An Spieler 0: TrackBuilt playerId: 0 trackId: 0 kind: ALL locomotives: 0
+BuildTrack playerId: 0 trackId: 1 kind: ALL locomotives: 1
+An Spieler 0: TrackBuilt playerId: 0 trackId: 1 kind: ALL locomotives: 1
+An Spieler 0: FinalMissions playerId: 0 missionSuccess: Mission start: 8 destination: 9 points: 5,  missionFail: Mission start: 6 destination: 7 points: 5, Mission start: 11 destination: 15 points: 5, 
+An Spieler 0: LongestTrack playerId: 0 length: 1
+An Spieler 0: FinalPoints playerId: 0 points: 7
+An Spieler 0: Winner playerId: 0
+Leave playerId: 0
+An Spieler 0: PlayerLeft playerId: 0

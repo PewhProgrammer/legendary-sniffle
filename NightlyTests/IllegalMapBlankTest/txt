@@ -1,0 +1,107 @@
+Spieler: 4
+Datum: 04.10.2015 22:01:54
+Map-File: illegal_blank_line.map
+Seed: 89
+
+NewObserver playerId: 0
+An Spieler 0: GameState players: 4
+NewObserver playerId: 1
+An Spieler 1: GameState players: 4
+NewObserver playerId: 2
+An Spieler 2: GameState players: 4
+Register playerId: 2 myName: TAS2
+An Spieler 0: NewPlayer playerId: 2 name: TAS2
+An Spieler 1: NewPlayer playerId: 2 name: TAS2
+An Spieler 2: NewPlayer playerId: 2 name: TAS2
+NewObserver playerId: 3
+An Spieler 3: GameState players: 4
+An Spieler 3: NewPlayer playerId: 2 name: TAS2
+Register playerId: 3 myName: TAS3
+An Spieler 0: NewPlayer playerId: 3 name: TAS3
+An Spieler 1: NewPlayer playerId: 3 name: TAS3
+An Spieler 2: NewPlayer playerId: 3 name: TAS3
+An Spieler 3: NewPlayer playerId: 3 name: TAS3
+Register playerId: 1 myName: TAS1
+An Spieler 0: NewPlayer playerId: 1 name: TAS1
+An Spieler 1: NewPlayer playerId: 1 name: TAS1
+An Spieler 2: NewPlayer playerId: 1 name: TAS1
+An Spieler 3: NewPlayer playerId: 1 name: TAS1
+Register playerId: 0 myName: TAS0
+An Spieler 0: NewPlayer playerId: 0 name: TAS0
+An Spieler 1: NewPlayer playerId: 0 name: TAS0
+An Spieler 2: NewPlayer playerId: 0 name: TAS0
+An Spieler 3: NewPlayer playerId: 0 name: TAS0
+An Spieler 0: NewCards kind: RED count: 11
+An Spieler 1: NewCards kind: RED count: 11
+An Spieler 2: NewCards kind: RED count: 11
+An Spieler 3: NewCards kind: RED count: 11
+An Spieler 0: NewCards kind: GREEN count: 11
+An Spieler 1: NewCards kind: GREEN count: 11
+An Spieler 2: NewCards kind: GREEN count: 11
+An Spieler 3: NewCards kind: GREEN count: 11
+An Spieler 0: NewCards kind: BLACK count: 11
+An Spieler 1: NewCards kind: BLACK count: 11
+An Spieler 2: NewCards kind: BLACK count: 11
+An Spieler 3: NewCards kind: BLACK count: 11
+An Spieler 0: NewCards kind: YELLOW count: 11
+An Spieler 1: NewCards kind: YELLOW count: 11
+An Spieler 2: NewCards kind: YELLOW count: 11
+An Spieler 3: NewCards kind: YELLOW count: 11
+An Spieler 0: NewCards kind: BLUE count: 11
+An Spieler 1: NewCards kind: BLUE count: 11
+An Spieler 2: NewCards kind: BLUE count: 11
+An Spieler 3: NewCards kind: BLUE count: 11
+An Spieler 0: NewCards kind: VIOLET count: 11
+An Spieler 1: NewCards kind: VIOLET count: 11
+An Spieler 2: NewCards kind: VIOLET count: 11
+An Spieler 3: NewCards kind: VIOLET count: 11
+An Spieler 0: NewCards kind: WHITE count: 11
+An Spieler 1: NewCards kind: WHITE count: 11
+An Spieler 2: NewCards kind: WHITE count: 11
+An Spieler 3: NewCards kind: WHITE count: 11
+An Spieler 0: NewCards kind: ORANGE count: 11
+An Spieler 1: NewCards kind: ORANGE count: 11
+An Spieler 2: NewCards kind: ORANGE count: 11
+An Spieler 3: NewCards kind: ORANGE count: 11
+An Spieler 0: NewCards kind: ALL count: 12
+An Spieler 1: NewCards kind: ALL count: 12
+An Spieler 2: NewCards kind: ALL count: 12
+An Spieler 3: NewCards kind: ALL count: 12
+An Spieler 0: MaxTrackLength maxTracks: 45
+An Spieler 1: MaxTrackLength maxTracks: 45
+An Spieler 2: MaxTrackLength maxTracks: 45
+An Spieler 3: MaxTrackLength maxTracks: 45
+An Spieler 0: NewCity cityId: 0 name: Vancouver x: 0 y: 1
+An Spieler 1: NewCity cityId: 0 name: Vancouver x: 0 y: 1
+An Spieler 2: NewCity cityId: 0 name: Vancouver x: 0 y: 1
+An Spieler 3: NewCity cityId: 0 name: Vancouver x: 0 y: 1
+An Spieler 0: NewCity cityId: 1 name: Seattle x: 0 y: 2
+An Spieler 1: NewCity cityId: 1 name: Seattle x: 0 y: 2
+An Spieler 2: NewCity cityId: 1 name: Seattle x: 0 y: 2
+An Spieler 3: NewCity cityId: 1 name: Seattle x: 0 y: 2
+An Spieler 0: NewCity cityId: 2 name: Portland x: 0 y: 3
+An Spieler 1: NewCity cityId: 2 name: Portland x: 0 y: 3
+An Spieler 2: NewCity cityId: 2 name: Portland x: 0 y: 3
+An Spieler 3: NewCity cityId: 2 name: Portland x: 0 y: 3
+An Spieler 0: NewCity cityId: 3 name: San Francisco x: 0 y: 8
+An Spieler 1: NewCity cityId: 3 name: San Francisco x: 0 y: 8
+An Spieler 2: NewCity cityId: 3 name: San Francisco x: 0 y: 8
+An Spieler 3: NewCity cityId: 3 name: San Francisco x: 0 y: 8
+An Spieler 0: NewCity cityId: 4 name: Los Angeles x: 1 y: 11
+An Spieler 1: NewCity cityId: 4 name: Los Angeles x: 1 y: 11
+An Spieler 2: NewCity cityId: 4 name: Los Angeles x: 1 y: 11
+An Spieler 3: NewCity cityId: 4 name: Los Angeles x: 1 y: 11
+An Spieler 0: NewCity cityId: 5 name: Calcary x: 3 y: 0
+An Spieler 1: NewCity cityId: 5 name: Calcary x: 3 y: 0
+An Spieler 2: NewCity cityId: 5 name: Calcary x: 3 y: 0
+An Spieler 3: NewCity cityId: 5 name: Calcary x: 3 y: 0
+An Spieler 0: Die message: Der Map-File enthält eine illegale Zeile im 'Staedte'-Abschnitt.
+An Spieler 1: PlayerLeft playerId: 0
+An Spieler 2: PlayerLeft playerId: 0
+An Spieler 3: PlayerLeft playerId: 0
+An Spieler 1: Die message: Der Map-File enthält eine illegale Zeile im 'Staedte'-Abschnitt.
+An Spieler 2: PlayerLeft playerId: 1
+An Spieler 3: PlayerLeft playerId: 1
+An Spieler 2: Die message: Der Map-File enthält eine illegale Zeile im 'Staedte'-Abschnitt.
+An Spieler 3: PlayerLeft playerId: 2
+An Spieler 3: Die message: Der Map-File enthält eine illegale Zeile im 'Staedte'-Abschnitt.

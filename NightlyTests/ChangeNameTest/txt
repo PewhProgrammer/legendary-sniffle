@@ -1,0 +1,116 @@
+Spieler: 2
+Datum: 08.10.2015 12:56:15
+Map-File: small.map
+Seed: 666
+
+NewObserver playerId: 0
+An Spieler 0: GameState players: 2
+Register playerId: 0 myName: TAS0
+An Spieler 0: NewPlayer playerId: 0 name: TAS0
+Register playerId: 0 myName: Little Mary
+An Spieler 0: NewPlayer playerId: 0 name: Little Mary
+NewObserver playerId: 1
+An Spieler 1: GameState players: 2
+An Spieler 1: NewPlayer playerId: 0 name: Little Mary
+Register playerId: 1 myName: TAS1
+An Spieler 0: NewPlayer playerId: 1 name: TAS1
+An Spieler 1: NewPlayer playerId: 1 name: TAS1
+An Spieler 0: NewCards kind: RED count: 6
+An Spieler 1: NewCards kind: RED count: 6
+An Spieler 0: NewCards kind: GREEN count: 6
+An Spieler 1: NewCards kind: GREEN count: 6
+An Spieler 0: NewCards kind: BLACK count: 6
+An Spieler 1: NewCards kind: BLACK count: 6
+An Spieler 0: NewCards kind: YELLOW count: 6
+An Spieler 1: NewCards kind: YELLOW count: 6
+An Spieler 0: NewCards kind: BLUE count: 6
+An Spieler 1: NewCards kind: BLUE count: 6
+An Spieler 0: NewCards kind: VIOLET count: 6
+An Spieler 1: NewCards kind: VIOLET count: 6
+An Spieler 0: NewCards kind: WHITE count: 6
+An Spieler 1: NewCards kind: WHITE count: 6
+An Spieler 0: NewCards kind: ORANGE count: 6
+An Spieler 1: NewCards kind: ORANGE count: 6
+An Spieler 0: NewCards kind: ALL count: 7
+An Spieler 1: NewCards kind: ALL count: 7
+An Spieler 0: MaxTrackLength maxTracks: 8
+An Spieler 1: MaxTrackLength maxTracks: 8
+An Spieler 0: NewCity cityId: 0 name: Oberhausen x: 1 y: 1
+An Spieler 1: NewCity cityId: 0 name: Oberhausen x: 1 y: 1
+An Spieler 0: NewCity cityId: 1 name: Essen x: 3 y: 1
+An Spieler 1: NewCity cityId: 1 name: Essen x: 3 y: 1
+An Spieler 0: NewCity cityId: 2 name: Bochum x: 5 y: 1
+An Spieler 1: NewCity cityId: 2 name: Bochum x: 5 y: 1
+An Spieler 0: NewCity cityId: 3 name: Wuppertal x: 4 y: 5
+An Spieler 1: NewCity cityId: 3 name: Wuppertal x: 4 y: 5
+An Spieler 0: NewCity cityId: 4 name: Hagen x: 7 y: 3
+An Spieler 1: NewCity cityId: 4 name: Hagen x: 7 y: 3
+An Spieler 0: NewCity cityId: 5 name: Dortmund x: 7 y: 0
+An Spieler 1: NewCity cityId: 5 name: Dortmund x: 7 y: 0
+An Spieler 0: NewTrack trackId: 0 city1: 0 city2: 1 length: 2 kind: ALL tunnel: false
+An Spieler 1: NewTrack trackId: 0 city1: 0 city2: 1 length: 2 kind: ALL tunnel: false
+An Spieler 0: NewTrack trackId: 1 city1: 1 city2: 2 length: 2 kind: ALL tunnel: false
+An Spieler 1: NewTrack trackId: 1 city1: 1 city2: 2 length: 2 kind: ALL tunnel: false
+An Spieler 0: NewTrack trackId: 2 city1: 2 city2: 4 length: 3 kind: BLACK tunnel: false
+An Spieler 1: NewTrack trackId: 2 city1: 2 city2: 4 length: 3 kind: BLACK tunnel: false
+An Spieler 0: NewTrack trackId: 3 city1: 3 city2: 4 length: 3 kind: RED tunnel: false
+An Spieler 1: NewTrack trackId: 3 city1: 3 city2: 4 length: 3 kind: RED tunnel: false
+An Spieler 0: NewTrack trackId: 4 city1: 3 city2: 1 length: 4 kind: GREEN tunnel: false
+An Spieler 1: NewTrack trackId: 4 city1: 3 city2: 1 length: 4 kind: GREEN tunnel: false
+An Spieler 0: NewTrack trackId: 5 city1: 0 city2: 3 length: 4 kind: BLUE tunnel: false
+An Spieler 1: NewTrack trackId: 5 city1: 0 city2: 3 length: 4 kind: BLUE tunnel: false
+An Spieler 0: NewTrack trackId: 6 city1: 5 city2: 2 length: 2 kind: YELLOW tunnel: false
+An Spieler 1: NewTrack trackId: 6 city1: 5 city2: 2 length: 2 kind: YELLOW tunnel: false
+An Spieler 0: NewTrack trackId: 7 city1: 5 city2: 4 length: 2 kind: ORANGE tunnel: false
+An Spieler 1: NewTrack trackId: 7 city1: 5 city2: 4 length: 2 kind: ORANGE tunnel: false
+nextInt(54) = 14
+An Spieler 0: NewOpenCard kind: BLUE
+An Spieler 1: NewOpenCard kind: BLUE
+nextInt(53) = 23
+An Spieler 0: NewOpenCard kind: ORANGE
+An Spieler 1: NewOpenCard kind: ORANGE
+nextInt(52) = 41
+An Spieler 0: NewOpenCard kind: GREEN
+An Spieler 1: NewOpenCard kind: GREEN
+nextInt(51) = 16
+An Spieler 0: NewOpenCard kind: BLUE
+An Spieler 1: NewOpenCard kind: BLUE
+nextInt(50) = 49
+An Spieler 0: NewOpenCard kind: ALL
+An Spieler 1: NewOpenCard kind: ALL
+nextInt(49) = 49
+nextInt(48) = 35
+nextInt(47) = 3
+nextInt(46) = 1
+An Spieler 0: NewCards kind: VIOLET count: 2
+An Spieler 0: NewCards kind: RED count: 1
+An Spieler 0: NewCards kind: ALL count: 1
+nextInt(7) = 2
+nextInt(6) = 2
+nextInt(5) = 3
+An Spieler 0: NewMissions missions: Mission start: 0 destination: 3 points: 5, Mission start: 0 destination: 5 points: 8, Mission start: 1 destination: 4 points: 5, 
+nextInt(45) = 1
+nextInt(44) = 13
+nextInt(43) = 2
+nextInt(42) = 0
+An Spieler 1: NewCards kind: VIOLET count: 3
+An Spieler 1: NewCards kind: YELLOW count: 1
+nextInt(4) = 4
+nextInt(3) = 1
+nextInt(2) = 2
+An Spieler 1: NewMissions missions: Mission start: 5 destination: 1 points: 6, Mission start: 0 destination: 4 points: 6, Mission start: 5 destination: 3 points: 6, 
+ReturnMissions playerId: 1 missions: 
+An Spieler 0: TookMissions playerId: 1 count: 3
+An Spieler 1: TookMissions playerId: 1 count: 3
+ReturnMissions playerId: 0 missions: 
+An Spieler 0: TookMissions playerId: 0 count: 3
+An Spieler 1: TookMissions playerId: 0 count: 3
+An Spieler 0: GameStart
+An Spieler 1: GameStart
+Register playerId: 0 myName: Little John
+An Spieler 0: Failure message: Diese Aktion ist nicht mehr erlaubt, sobald das Spiel gestartet ist.
+Leave playerId: 0
+An Spieler 0: PlayerLeft playerId: 0
+An Spieler 1: PlayerLeft playerId: 0
+Leave playerId: 1
+An Spieler 1: PlayerLeft playerId: 1

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="768.0" prefWidth="1366.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="de.unisaarland.sopra.zugumzug.gui.view.LoginScreenController">
+   <children>
+      <TextField fx:id="name" layoutX="606.0" layoutY="369.0" />
+      <Text layoutX="520.0" layoutY="319.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Please enter a new name:" wrappingWidth="359.6533203125">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Text>
+      <Label layoutX="544.0" layoutY="371.0" text="Name:">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+      <Button fx:id="registerButton" layoutX="645.0" layoutY="459.0" mnemonicParsing="false" onAction="#loginEvent" text="change name" />
+   </children>
+</AnchorPane>

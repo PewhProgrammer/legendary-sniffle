@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.chart.*?>
+<?import javafx.scene.paint.*?>
+<?import javafx.scene.text.*?>
+<?import javafx.scene.effect.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.image.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane xmlns="http://javafx.com/javafx/8.0.40" xmlns:fx="http://javafx.com/fxml/1" fx:controller="de.unisaarland.sopra.zugumzug.gui.view.RootLayoutController">
+   <children>
+      <ImageView fitHeight="768.0" fitWidth="1366.0">
+         <image>
+            <Image url="@../Images/StaticBackground.jpg" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="190.0" fitWidth="200.0" layoutX="1166.0" layoutY="578.0">
+         <image>
+            <Image url="@../Images/dame.png" />
+         </image>
+      </ImageView>
+      <AnchorPane fx:id="playerMissionSurvey" layoutY="111.0" onScroll="#scrollMissionSurvey" prefHeight="548.0" prefWidth="1366.0" visible="false">
+         <children>
+            <ImageView>
+               <image>
+                  <Image url="@../Images/missionsBackground.png" />
+               </image>
+            </ImageView>
+            <Button fx:id="missionSurveyCloseButton" contentDisplay="GRAPHIC_ONLY" layoutX="1242.0" layoutY="28.0" mnemonicParsing="false" onAction="#closeMissionSurvey" style="-fx-background-color: transparent;" text="Button">
+               <graphic>
+                  <ImageView>
+                     <image>
+                        <Image url="@../Images/closeButton.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+            </Button>
+         </children>
+      </AnchorPane>
+      <Button fx:id="acceptMissionsButton" contentDisplay="GRAPHIC_ONLY" layoutX="500.0" layoutY="468.0" mnemonicParsing="false" onAction="#acceptDrawnMissions" style="-fx-background-color: transparent;" text="Button" visible="false">
+         <graphic>
+            <ImageView>
+               <image>
+                  <Image url="@../Images/greenAcceptGrey.png" />
+               </image>
+            </ImageView>
+         </graphic>
+      </Button>
+      <Button fx:id="showHideDrawnMissions" contentDisplay="GRAPHIC_ONLY" layoutX="650.0" layoutY="503.0" mnemonicParsing="false" onAction="#showHideDrawnMissions" style="-fx-background-color: transparent;" text="Show/Hide Map" visible="false">
+         <graphic>
+            <ImageView>
+               <image>
+                  <Image url="@../Images/hideDrawnMissionCards.png" />
+               </image>
+            </ImageView>
+         </graphic></Button>
+      <Text fx:id="drawMissionText" layoutX="50.0" layoutY="180.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Draw at least one mission:" visible="false">
+         <font>
+            <Font name="Yu Mincho Regular" size="40.0" />
+         </font>
+      </Text>
+      <AnchorPane fx:id="upperBorder" prefHeight="108.0" prefWidth="1366.0">
+         <children>
+            <ImageView fitHeight="110.0" fitWidth="1366.0">
+               <image>
+                  <Image url="@../Images/upperBorder.jpg" />
+               </image>
+            </ImageView>
+            <Button fx:id="pokalButton" contentDisplay="GRAPHIC_ONLY" layoutX="388.0" layoutY="5.0" mnemonicParsing="false" onAction="#close" onMouseEntered="#highlightButton" style="-fx-background-color: transparent;" text="Statistik">
+               <graphic>
+                  <ImageView style="-fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.8), 8, 0, 2, 2);">
+                     <image>
+                        <Image url="@../Images/pokal.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+            </Button>
+            <Button fx:id="missionDeckButton" alignment="CENTER" layoutX="923.0" layoutY="2.0" mnemonicParsing="false" style="-fx-background-color: transparent;" textFill="#fffefe">
+               <graphic>
+                  <ImageView fitHeight="88.0" fitWidth="70.0" style="-fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.8), 8, 0, 2, 2);">
+                     <image>
+                        <Image url="@../Images/MissionCoverStapel.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+            </Button>
+            <Button fx:id="closedDeckButton" contentDisplay="RIGHT" layoutX="1035.0" layoutY="2.0" mnemonicParsing="false" onAction="#showDrawnRessourceCard" style="-fx-background-color: transparent;" textFill="#fcf5f5">
+               <graphic>
+                  <ImageView fitHeight="88.0" fitWidth="70.0" style="-fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.8), 8, 0, 2, 2);">
+                     <image>
+                        <Image url="@../Images/closedDeck.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+            </Button>
+            <Button fx:id="menuButton" contentDisplay="GRAPHIC_ONLY" layoutX="14.0" layoutY="21.0" mnemonicParsing="false" onAction="#showMenu" style="-fx-background-color: transparent;" text="Menu">
+               <graphic>
+                  <ImageView onMouseEntered="#highlightButton" style="-fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.8), 8, 0, 2, 2);">
+                     <image>
+                        <Image url="@../Images/MenuButton.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+            </Button>
+            <Label fx:id="timerLabel" layoutX="246.0" layoutY="60.0" />
+            <Button fx:id="jukebox" contentDisplay="GRAPHIC_ONLY" layoutX="165.0" layoutY="3.0" mnemonicParsing="false" onAction="#nextSong" style="-fx-background-color: transparent;" text="Jukebox">
+               <graphic>
+                  <ImageView>
+                     <image>
+                        <Image url="@../Images/grammophon.png" />
+                     </image>
+                  </ImageView>
+               </graphic></Button>
+            <Label fx:id="lablePoints" contentDisplay="RIGHT" layoutX="752.0" layoutY="40.0" text="Label">
+               <font>
+                  <Font name="Yu Mincho Regular" size="13.0" />
+               </font>
+            </Label>
+            <Label fx:id="lablePlayerId" contentDisplay="RIGHT" layoutX="667.0" layoutY="22.0" text="Label">
+               <font>
+                  <Font name="Yu Mincho Regular" size="13.0" />
+               </font>
+            </Label>
+            <Label fx:id="lableCards" contentDisplay="RIGHT" layoutX="752.0" layoutY="57.0" text="Label">
+               <font>
+                  <Font name="Yu Mincho Regular" size="13.0" />
+               </font>
+            </Label>
+            <Label fx:id="lableMissions" contentDisplay="RIGHT" layoutX="752.0" layoutY="75.0" text="Label">
+               <font>
+                  <Font name="Yu Mincho Regular" size="13.0" />
+               </font>
+            </Label>
+            <Text fx:id="ressourceCounter" fill="WHITE" layoutX="1095.0" layoutY="30.0" strokeType="OUTSIDE" strokeWidth="0.0">
+               <font>
+                  <Font name="Yu Mincho Regular" size="15.0" />
+               </font>
+            </Text>
+            <Button fx:id="loudSpeaker" contentDisplay="GRAPHIC_ONLY" layoutX="270.0" layoutY="23.0" mnemonicParsing="false" onAction="#pauseContinueMusic" style="-fx-background-color: transparent;" text="Button">
+               <graphic>
+                  <ImageView>
+                     <image>
+                        <Image url="@../Images/loudSpeakerOn.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+            </Button>
+         </children>
+      </AnchorPane>
+      <AnchorPane fx:id="lowerBorder" layoutY="660.0" prefHeight="110.0" prefWidth="1366.0">
+         <children>
+            <ImageView fitHeight="110.0" fitWidth="1366.0">
+               <image>
+                  <Image url="@../Images/lowerBorder.jpg" />
+               </image>
+            </ImageView>
+            <Button fx:id="playerMissionsButton" contentDisplay="GRAPHIC_ONLY" layoutX="14.0" layoutY="8.0" mnemonicParsing="false" onAction="#showMissionSurvey" style="-fx-background-color: transparent;" text="PlayerMissions">
+               <graphic>
+                  <ImageView fitHeight="85.0" fitWidth="85.0" style="-fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.8), 8, 0, 2, 2);">
+                     <image>
+                        <Image url="@../Images/playerMissions.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+            </Button>
+            <Button fx:id="ressourceRed" graphicTextGap="10.0" layoutX="207.0" layoutY="22.0" mnemonicParsing="false" style="-fx-background-color: transparent;" text="x0" textFill="WHITE">
+               <graphic>
+                  <ImageView style="-fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.8), 8, 0, 2, 2);">
+                     <image>
+                        <Image url="@../Images/redCard.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+               <font>
+                  <Font name="Yu Mincho Regular" size="18.0" />
+               </font>
+            </Button>
+            <Button fx:id="ressourceOrange" graphicTextGap="10.0" layoutX="292.0" layoutY="22.0" mnemonicParsing="false" style="-fx-background-color: transparent;" text="x0" textFill="WHITE">
+               <graphic>
+                  <ImageView style="-fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.8), 8, 0, 2, 2);">
+                     <image>
+                        <Image url="@../Images/orangeCard.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+               <font>
+                  <Font name="Yu Mincho Regular" size="18.0" />
+               </font>
+            </Button>
+            <Button fx:id="ressourceYellow" graphicTextGap="10.0" layoutX="377.0" layoutY="22.0" mnemonicParsing="false" style="-fx-background-color: transparent;" text="x0" textFill="WHITE">
+               <graphic>
+                  <ImageView style="-fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.8), 8, 0, 2, 2);">
+                     <image>
+                        <Image url="@../Images/yellowCard.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+               <font>
+                  <Font name="Yu Mincho Regular" size="18.0" />
+               </font>
+            </Button>
+            <Button fx:id="ressourceGreen" graphicTextGap="10.0" layoutX="462.0" layoutY="22.0" mnemonicParsing="false" style="-fx-background-color: transparent;" text="x0" textFill="WHITE">
+               <graphic>
+                  <ImageView style="-fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.8), 8, 0, 2, 2);">
+                     <image>
+                        <Image url="@../Images/greenCard.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+               <font>
+                  <Font name="Yu Mincho Regular" size="18.0" />
+               </font>
+            </Button>
+            <Button fx:id="ressourceBlue" graphicTextGap="10.0" layoutX="547.0" layoutY="22.0" mnemonicParsing="false" style="-fx-background-color: transparent;" text="x0" textFill="WHITE">
+               <graphic>
+                  <ImageView style="-fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.8), 8, 0, 2, 2);">
+                     <image>
+                        <Image url="@../Images/blueCard.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+               <font>
+                  <Font name="Yu Mincho Regular" size="18.0" />
+               </font>
+            </Button>
+            <Button fx:id="ressourceViolet" graphicTextGap="10.0" layoutX="632.0" layoutY="22.0" mnemonicParsing="false" style="-fx-background-color: transparent;" text="x0" textFill="WHITE">
+               <graphic>
+                  <ImageView style="-fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.8), 8, 0, 2, 2);">
+                     <image>
+                        <Image url="@../Images/violetCard.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+               <font>
+                  <Font name="Yu Mincho Regular" size="18.0" />
+               </font>
+            </Button>
+            <Button fx:id="ressourceBlack" graphicTextGap="10.0" layoutX="717.0" layoutY="22.0" mnemonicParsing="false" style="-fx-background-color: transparent;" text="x0" textFill="WHITE">
+               <graphic>
+                  <ImageView style="-fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.8), 8, 0, 2, 2);">
+                     <image>
+                        <Image url="@../Images/blackCard.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+               <font>
+                  <Font name="Yu Mincho Regular" size="18.0" />
+               </font>
+            </Button>
+            <Button fx:id="ressourceWhite" graphicTextGap="10.0" layoutX="802.0" layoutY="22.0" mnemonicParsing="false" style="-fx-background-color: transparent;" text="x0" textFill="WHITE">
+               <graphic>
+                  <ImageView style="-fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.8), 8, 0, 2, 2);">
+                     <image>
+                        <Image url="@../Images/whiteCard.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+               <font>
+                  <Font name="Yu Mincho Regular" size="18.0" />
+               </font>
+            </Button>
+            <Button fx:id="ressourceAll" graphicTextGap="10.0" layoutX="887.0" layoutY="22.0" mnemonicParsing="false" style="-fx-background-color: transparent;" text="x0" textFill="WHITE">
+               <graphic>
+                  <ImageView style="-fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.8), 8, 0, 2, 2);">
+                     <image>
+                        <Image url="@../Images/locoCard.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+               <font>
+                  <Font name="Yu Mincho Regular" size="18.0" />
+               </font>
+            </Button>
+         </children>
+      </AnchorPane>
+      <ImageView fx:id="damePicture" fitHeight="190.0" fitWidth="200.0" layoutX="1166.0" layoutY="578.0">
+         <image>
+            <Image url="@../Images/dame.png" />
+         </image>
+      </ImageView>
+      <AnchorPane fx:id="mainMenuAnchor" layoutX="21.0" layoutY="18.0" prefHeight="768.0" prefWidth="1366.0" visible="false" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+         <children>
+            <ImageView fitHeight="417.0" fitWidth="284.0" layoutX="550.0" layoutY="176.0" style="-fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.8), 10, 0, 0, 0);">
+               <image>
+                  <Image url="@../Images/MainMenu.jpg" />
+               </image>
+            </ImageView>
+            <Button fx:id="leaveGameButton" contentDisplay="GRAPHIC_ONLY" layoutX="582.0" layoutY="517.0" mnemonicParsing="false" onAction="#leaveGame" style="-fx-background-color: transparent;" text="Leave game">
+               <graphic>
+                  <ImageView fitHeight="33.0" fitWidth="200.0" style="-fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.8), 10, 0, 0, 0);">
+                     <image>
+                        <Image url="@../Images/LeaveGameButton.png" />
+                     </image>
+                  </ImageView>
+               </graphic></Button>
+            <Button fx:id="backToGameButton" contentDisplay="GRAPHIC_ONLY" layoutX="582.0" layoutY="335.0" mnemonicParsing="false" onAction="#hideMenu" style="-fx-background-color: transparent;" text="Back to game">
+               <graphic>
+                  <ImageView fitHeight="33.0" fitWidth="200.0" style="-fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.8), 10, 0, 0, 0);">
+                     <image>
+                        <Image url="@../Images/BackToGameButton.png" />
+                     </image>
+                  </ImageView>
+               </graphic></Button>
+            <Button fx:id="rulesButton" contentDisplay="GRAPHIC_ONLY" layoutX="582.0" layoutY="397.0" mnemonicParsing="false" onAction="#showRules" style="-fx-background-color: transparent;" text="Rules">
+               <graphic>
+                  <ImageView fitHeight="33.0" fitWidth="200.0" style="-fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.8), 10, 0, 0, 0);">
+                     <image>
+                        <Image url="@../Images/RulesButton.png" />
+                     </image>
+                  </ImageView>
+               </graphic></Button>
+         </children>
+      </AnchorPane>
+      <Button fx:id="openCard1" layoutX="1210.0" layoutY="120.0" mnemonicParsing="false" style="-fx-background-color: transparent;" />
+      <Button fx:id="openCard2" layoutX="1210.0" layoutY="210.0" mnemonicParsing="false" style="-fx-background-color: transparent;" />
+      <Button fx:id="openCard3" layoutX="1210.0" layoutY="300.0" mnemonicParsing="false" style="-fx-background-color: transparent;" />
+      <Button fx:id="openCard4" layoutX="1210.0" layoutY="390.0" mnemonicParsing="false" style="-fx-background-color: transparent;" />
+      <Button fx:id="openCard5" layoutX="1210.0" layoutY="480.0" mnemonicParsing="false" style="-fx-background-color: transparent;" />
+      <AnchorPane fx:id="endGameStatisticsAnchor" layoutX="301.0" layoutY="209.0" prefHeight="200.0" prefWidth="200.0" visible="false">
+         <children>
+            <AnchorPane fx:id="pieChartAnchor" prefHeight="353.0" prefWidth="765.0" visible="false" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+               <children>
+                  <ImageView style="-fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.8), 8, 0, 2, 2);">
+                     <image>
+                        <Image url="@../Images/winnerScreenBackgroundPieChart.jpg" />
+                     </image>
+                  </ImageView>
+                  <Text fill="#ffb00f" layoutX="26.0" layoutY="66.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Track ownership">
+                     <font>
+                        <Font name="Yu Mincho Regular" size="50.0" />
+                     </font>
+                  </Text>
+               </children>
+            </AnchorPane>
+            <AnchorPane fx:id="statisticsAnchor" prefHeight="353.0" prefWidth="765.0">
+               <children>
+                  <ImageView fitHeight="353.0" fitWidth="765.0" style="-fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.8), 8, 0, 2, 2);">
+                     <image>
+                        <Image url="@../Images/winnerScreenBackground.jpg" />
+                     </image>
+                  </ImageView>
+                  <Text fx:id="winnerText" fill="#ffb00f" layoutX="238.0" layoutY="70.0" strokeType="OUTSIDE" strokeWidth="0.0" text="PlayerW" textAlignment="RIGHT" wrappingWidth="400.9150390625">
+                     <font>
+                        <Font name="Yu Mincho Regular" size="50.0" />
+                     </font>
+                  </Text>
+                  <Text fx:id="playerLTText" layoutX="256.0" layoutY="145.0" strokeType="OUTSIDE" strokeWidth="0.0" text="PlayerLT" textAlignment="RIGHT" wrappingWidth="461.30861416459084">
+                     <font>
+                        <Font name="Yu Mincho Regular" size="30.0" />
+                     </font>
+                  </Text>
+                  <Text fx:id="scoreText" layoutX="208.0" layoutY="270.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Score" textAlignment="RIGHT" wrappingWidth="508.6708984375">
+                     <font>
+                        <Font name="Yu Mincho Regular" size="30.0" />
+                     </font>
+                  </Text>
+               </children>
+            </AnchorPane>
+            <Button fx:id="previousButton" contentDisplay="GRAPHIC_ONLY" layoutX="231.0" layoutY="281.0" mnemonicParsing="false" onAction="#showStatistics" style="-fx-background-color: transparent;" text="Previous" visible="false">
+               <graphic>
+                  <ImageView style="-fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.8), 8, 0, 2, 2);">
+                     <image>
+                        <Image url="@../Images/previous.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+            </Button>
+            <Button fx:id="nextButton" contentDisplay="GRAPHIC_ONLY" layoutX="468.0" layoutY="281.0" mnemonicParsing="false" onAction="#showPieChart" style="-fx-background-color: transparent;" text="Next">
+               <graphic>
+                  <ImageView style="-fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.8), 8, 0, 2, 2);">
+                     <image>
+                        <Image url="@../Images/next.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+            </Button>
+         </children>
+      </AnchorPane>
+   </children>
+</AnchorPane>

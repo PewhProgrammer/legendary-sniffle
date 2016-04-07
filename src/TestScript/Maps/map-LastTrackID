@@ -1,0 +1,78 @@
+Limits:
+RED,11
+GREEN,11
+BLACK,11
+YELLOW,11
+BLUE,11
+VIOLET,11
+ORANGE,11
+MaxTracks,31
+ALL,13
+WHITE,11
+Staedte:
+Wiesbaden (State capital of Hesse),0,0
+Bad Salzdetfurth (Lower Saxony),3,1
+Nieder-Olm (Rhineland-Palatinate),6,2
+Stromberg (Rhineland-Palatinate),9,3
+Koenigsberg in Bayern (Bavaria),12,4
+Hildesheim (Lower Saxony),1,6
+Strausberg (Brandenburg),4,7
+Darmstadt (Hesse),7,8
+Grafenwoehr (Bavaria),10,9
+Bad Soden am Taunus (Hesse),13,10
+Sangerhausen (Saxony-Anhalt),2,12
+Montabaur (Rhineland-Palatinate),5,13
+Schleswig (Schleswig-Holstein),8,14
+Strecken:
+0,1,4,WHITE,N
+1,2,5,YELLOW,N
+2,3,2,BLUE,N
+3,4,1,RED,N
+4,5,2,RED,N
+5,6,1,GREEN,N
+6,7,2,WHITE,N
+7,8,5,WHITE,N
+8,9,4,GREEN,N
+9,10,3,BLUE,N
+10,11,4,ORANGE,N
+11,12,2,ALL,N
+1,7,4,ALL,T
+9,6,5,BLACK,T
+6,0,1,ALL,T
+1,4,3,YELLOW,T
+1,0,4,VIOLET,T
+8,3,5,WHITE,T
+2,2,5,YELLOW,T
+3,7,2,YELLOW,T
+9,5,2,YELLOW,T
+6,2,2,ALL,T
+7,6,3,VIOLET,T
+23,7,0,BLUE,N
+Auftraege:
+4,4,38
+12,2,8
+0,9,25
+0,4,1
+9,11,33
+6,3,29
+0,12,15
+1,6,5
+11,5,1
+0,10,5
+10,6,2
+6,3,17
+4,1,17
+10,5,35
+8,6,7
+2,0,26
+11,7,26
+7,8,4
+11,12,4
+11,6,14
+2,10,39
+11,5,18
+1,0,15
+5,10,7
+1,7,3
+#DIESER ABschnitt iST NuR ZumM entNerveN DeR LESEEEEER Da, un
+#d SOLllTee eIgentlich Nciht vom PC NichT IgnoRieRT WERdEN
